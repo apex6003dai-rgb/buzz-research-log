@@ -25,3 +25,15 @@
 - [What Makes a Video Go Viral in 2025? 15 Psychology Triggers Explained | Clipwise](https://www.clipwise.ai/blogs/the-psychology-behind-viral-videos-15-proven-triggers)
 - [Short-Form Video Dominance: Mastering Reels, TikTok, and YouTube Shorts in 2026 | ALM Corp](https://almcorp.com/blog/short-form-video-mastery-tiktok-reels-youtube-shorts-2026/)
 - [How to Go Viral in 2026: The Exact Formats, Hooks, and Systems That Actually Work Across Platforms](https://miraflow.ai/blog/how-to-go-viral-2026-what-actually-works-across-platforms)
+
+## 2026-09-17
+
+2026年時点でバズの基準は上がっており、完視聴率は50%では不十分で70%以上が目安とされる。冒頭2〜3秒で「見た先に得るもの」を提示できないと即離脱するため、疑問提起・論争性・変化(ビフォーアフター)・POV・直接質問・数字ショックの6型フックが有効とされ、「最後まで見て」等の定型句はすでに使い古され逆効果になりつつある。評価指標としては「いいね」より「保存」が2〜3倍重視され、即リプレイ(15〜20%以上)も強いシグナルになる。近年は15秒の超短尺より60〜180秒のストーリー性ある構成が伸びる傾向も出てきた。シェア心理としては、内容の質そのものよりも「自分が賢く見える」「共感される」「仲間意識(トライバル心理)を刺激する」かどうかが決め手になり、視聴者が「自分だけだと思っていた習慣・感情」を言語化するキャプションは強い反応を生む。2026年のキャプション傾向は台本感のない自然な文体と、共感を誘う短い情報ギャップ+明確なCTAの組み合わせで、長さより中身の深さとスキャン読みしやすさが重視される。
+
+**参考情報源:**
+- [TikTok Algorithm 2026: Virality, SEO, Dopamine Loops and Creator Strategy](https://beatstorapon.com/blog/tiktok-algorithm-2026-virality-seo-neuroscience/)
+- [How the TikTok algorithm works in 2026 | Hootsuite](https://blog.hootsuite.com/tiktok-algorithm/)
+- [TikTok Algorithm 2026: How to Win With Rewatches | Darkroom](https://www.darkroomagency.com/observatory/how-tiktok%E2%80%99s-algorithm-works-in-2026-and-15-tactics-to-go-viral)
+- [How to Write Viral Hooks for Short-Form Video (2026) | Kineclip](https://kineclip.com/blog/how-to-write-viral-hooks-short-form-2026/)
+- [Why Instagram & TikTok Captions Go Viral in 2026 | Captionory](https://captionory.com/blog/why-some-instagram-and-tiktok-captions-go-viral-in-2026-and-how-to-write-better-ones)
+- [How to Write Viral Social Media Captions That Drive Engagement | SwarmPost](https://swarmpost.io/en/blog/write-viral-social-media-captions)
