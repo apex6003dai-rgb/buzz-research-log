@@ -37,3 +37,18 @@
 - [How to Write Viral Hooks for Short-Form Video (2026) | Kineclip](https://kineclip.com/blog/how-to-write-viral-hooks-short-form-2026/)
 - [Why Instagram & TikTok Captions Go Viral in 2026 | Captionory](https://captionory.com/blog/why-some-instagram-and-tiktok-captions-go-viral-in-2026-and-how-to-write-better-ones)
 - [How to Write Viral Social Media Captions That Drive Engagement | SwarmPost](https://swarmpost.io/en/blog/write-viral-social-media-captions)
+
+## 2026-09-18
+
+2026年の各社データでもフックの重要性は変わらず、TikTokは0.5〜1.5秒、YouTube Shortsは1〜2秒で視聴継続の可否が決まるとされ、冒頭3秒が完視聴率の分散の約8割を左右するとの分析もある。「Identity Call(特定の属性の人に呼びかける)」型フックは母数が小さいアカウントでも再現性が高く、抽象的な「最後まで見て」より具体性が勝る。心理面ではツァイガルニク効果(未完了タスクへの緊張感)が完視聴・リプレイの動機になり、短尺動画は完視聴率68%(長尺は20〜30%)、シェア率4.2%(長尺は0.8%)と長尺の約5倍拡散されやすい。90秒未満の動画は視聴維持率50%が目安。日本語圏の情報でも、冒頭で共感できる課題提示ができると完了率・保存率が跳ね上がる点、台本を型化して再現性を高める運用が共通して推奨されている。アルゴリズム面では、TikTokは視聴継続率・リプレイ・シェアを「いいね」より重視、YouTube Shortsは30秒未満で平均視聴率65%・30〜60秒で50%が目安、Instagram Reelsは視聴時間・リーチ当たりいいね・リーチ当たり送信(DMシェア)を公式に優先指標として明言している。
+
+**参考情報源:**
+- [The 5 TikTok Hook Types That Actually Go Viral in 2026 | Opus](https://www.opus.pro/blog/tiktok-hooks-that-go-viral-2026)
+- [TikTok Algorithm 2026: 7 Hooks for Retention | HypeNest](https://hypenest.ai/blogs/tiktok-algorithm-2026-video-hooks-retention)
+- [The 3-Second Hook: Why TikTok Videos Win or Die in 2026 | Hansen Insights](https://hansencommerce.com/insights-tiktok-hook-3-seconds)
+- [Short, Sweet, and Addictive: The Psychology of Short-Form Content | AttendanceBot](https://blog.attendancebot.com/blog/psychology-short-form-content/amp/)
+- [Why Short-Form Video Dominates in 2026 | Clippie](https://clippie.ai/blog/why-short-form-video-dominates-2026)
+- [バズる動画の作り方｜企画・台本・編集の型を公開【2026年版】 | トレンドマップ](https://trendmap.jp/blog/buzz-video-recipe-2026)
+- [ショート動画台本の書き方｜バズる構成テンプレートと実例の正解 | solezore](https://solezore.co.jp/blog/short-video-daihon/)
+- [YouTube Shorts Algorithm 2026: What Pushes Views Now | Socialync](https://www.socialync.io/blog/youtube-shorts-algorithm-2026)
+- [How the Instagram Algorithm Works: Your 2026 Guide | Buffer](https://buffer.com/resources/instagram-algorithms/)
