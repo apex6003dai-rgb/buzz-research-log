@@ -52,3 +52,16 @@
 - [ショート動画台本の書き方｜バズる構成テンプレートと実例の正解 | solezore](https://solezore.co.jp/blog/short-video-daihon/)
 - [YouTube Shorts Algorithm 2026: What Pushes Views Now | Socialync](https://www.socialync.io/blog/youtube-shorts-algorithm-2026)
 - [How the Instagram Algorithm Works: Your 2026 Guide | Buffer](https://buffer.com/resources/instagram-algorithms/)
+
+## 2026-09-19
+
+2026年の追加調査でもフック窓は依然厳しく、TikTokでは体感1.5秒でアルゴリズムが継続配信を判断し、フック自体は3秒以内に着地させる必要がある。特に「〜と思われがちだが実は」「誰も教えてくれない〜」型の否定/意外性フレーミングは、同内容の肯定フレーミングより初速の3秒維持率が1.3〜1.8倍高く、特定属性への呼びかけ(Identity Call)は小規模アカウントでも再現性が高い。完視聴率の目安は動画全体で70%以上、短尺(30秒未満)ならYouTube Shortsで平均視聴率65%が配信拡大の分岐点とされる。TikTokはテスト配信で保存・シェア・完視聴率が高い動画のみ大規模拡散に回す2段階アルゴリズムを採用。心理面では、パターン中断・好奇心ギャップ(情報ギャップ理論)・社会的証明の3トリガーが継続視聴を生み、動画内で問いを開いては閉じる「ループ構造」が有効。キャプションは冒頭100〜150字が「続きを見る」表示前に表示されるため見出しとして機能させる必要があり、台本くささを避けた自然体の文章と、内容を説明せず視聴・保存理由だけを与える短文が2026年の主流。
+
+**参考情報源:**
+- [The 5 TikTok Hook Types That Actually Go Viral in 2026 | Opus](https://www.opus.pro/blog/tiktok-hooks-that-go-viral-2026)
+- [Short-Form Video Statistics: TikTok, Reels, and Shorts by the Numbers in 2026 | Kapwing](https://www.kapwing.com/resources/short-form-video-statistics-tiktok-reels-and-shorts-by-the-numbers-in-2026/)
+- [YouTube Shorts Algorithm 2026: What Pushes Views Now | Socialync](https://www.socialync.io/blog/youtube-shorts-algorithm-2026)
+- [Scroll Stopping Hooks: 5 Triggers That Stop the Scroll | Quadcubes](https://quadcubes.com/scroll-stopping-hooks-psychology-2026/)
+- [The Psychology of Short-Form Video: Why Hooks, Curiosity, and Creativity Drive Conversions | StoryboxHQ](https://www.storyboxhq.ca/post/the-psychology-of-short-form-video-why-hooks-curiosity-and-creativity-drive-conversions)
+- [How to Write a TikTok Video Caption That Goes Viral | ShortGenius](https://shortgenius.com/blog/tiktok-video-caption)
+- [170+ TikTok Captions to Help Your Content Go Viral in 2026 | MegaDigital](https://megadigital.ai/en/blog/tiktok-captions/)
