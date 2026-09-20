@@ -65,3 +65,16 @@
 - [The Psychology of Short-Form Video: Why Hooks, Curiosity, and Creativity Drive Conversions | StoryboxHQ](https://www.storyboxhq.ca/post/the-psychology-of-short-form-video-why-hooks-curiosity-and-creativity-drive-conversions)
 - [How to Write a TikTok Video Caption That Goes Viral | ShortGenius](https://shortgenius.com/blog/tiktok-video-caption)
 - [170+ TikTok Captions to Help Your Content Go Viral in 2026 | MegaDigital](https://megadigital.ai/en/blog/tiktok-captions/)
+
+## 2026-09-20
+
+2026年のアルゴリズムは「視聴完了率」と「リピート再生」を最重視しており、冒頭3秒でフックを作れないと配信が伸びない点は継続して重要。心理学的には、視聴者は「パターン中断(予想外の視覚・音声変化)→軽い一時停止→自分ごと化→続きが気になる約束」という4段階を経て視聴を続けるとされ、疑問形フックは脳が閉じたがる「情報ギャップ」を作ることで機能する。いいねよりも保存・シェアの方が評価が高く、「保存したくなる情報」を含めることが伸びの鍵。シェアされやすい感情は畏敬・安堵・不公正への怒り・希望であり、共感やストーリー性、社会的価値を組み合わせたコンテンツが最も拡散されやすい。キャプションは全て明かさず「気になる余白」を残す構成が有効だが、中身の伴わないクリックベイトは信頼を損ない逆効果になる点に2026年は特に注意が必要。投稿頻度はTikTok週3〜5本、Reels/Shortsは週2〜3本が目安で、フォロワーが活発な時間帯(昼・夜)の投稿が推奨される。
+
+**参考情報源:**
+- [ショート動画が止まらない！2026年最新｜3大プラットフォーム攻略の月別戦略｜Itera](https://itera.co.jp/blog/short-trend-2026)
+- [ショート動画でバズるための構成テンプレート｜TikTok・Reels完全攻略 | TENANi](https://tenani.jp/2026/03/22/short-video-viral-template/)
+- [【2026年最新】ショート動画のアルゴリズム攻略法 | GOKKO Inc.](https://gokkoclub.jp/shortdrama-lab/category/study/4099/)
+- [The First 3 Seconds: Hook Structures That Stop Scroll on Shorts | Virvid](https://virvid.ai/blog/first-3-seconds-hook-faceless-shorts-2026)
+- [Short-Form Video Mastery: The 3-Second Hook Rule for 2026 | Cloudix Digital](https://cloudixdigital.com/short-form-video-mastery-how-the-3-second-hook-rule-drives-social-discovery-and-roi/)
+- [The Psychology of Viral Content: What Makes People Share in 2026](https://www.digitaldreamworksstudio.com/post/the-psychology-of-viral-content-what-makes-people-share-in-2026-1)
+- [Why Instagram & TikTok Captions Go Viral in 2026 | Captionory](https://captionory.com/blog/why-some-instagram-and-tiktok-captions-go-viral-in-2026-and-how-to-write-better-ones)
