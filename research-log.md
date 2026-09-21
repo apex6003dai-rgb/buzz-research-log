@@ -78,3 +78,16 @@
 - [Short-Form Video Mastery: The 3-Second Hook Rule for 2026 | Cloudix Digital](https://cloudixdigital.com/short-form-video-mastery-how-the-3-second-hook-rule-drives-social-discovery-and-roi/)
 - [The Psychology of Viral Content: What Makes People Share in 2026](https://www.digitaldreamworksstudio.com/post/the-psychology-of-viral-content-what-makes-people-share-in-2026-1)
 - [Why Instagram & TikTok Captions Go Viral in 2026 | Captionory](https://captionory.com/blog/why-some-instagram-and-tiktok-captions-go-viral-in-2026-and-how-to-write-better-ones)
+
+## 2026-09-21
+
+2026年時点でも冒頭2〜3秒のフックが完視聴率の分散の大半を左右する点は不変で、「パターン中断→軽い一時停止(マイクロコミットメント)→自分ごと化(関連性の提示)→続きの約束(ペイオフ)」という4段階モデルでフックを設計する考え方が広まっている。冒頭で25%以上離脱する「フック・ドロップ・デルタ」が起きると配信自体が抑制されるとの指摘もあり、初速の維持率がリーチを大きく左右する。国内情報でも完視聴率70%以上がバズの目安とされ、「いいね」より「保存」の方が強いポジティブシグナルとして機能する。構成面ではWhat→Why→Howの型、間を作らないジェットカット、2秒ルール、音声オフでも伝わるフルテロップが有効とされる。シェア心理としては畏敬・安堵・不公正への怒り・希望といった感情が拡散を促し、特にポジティブな感情(喜び・感動・称賛)の方が怒りより長期的な拡散力が強いとの分析がある。シェアは「自分がどう見えるか(社会的通貨)」で決まりやすく、視聴者が言語化できていなかった感情・習慣を代弁するキャプションが強く反応される。タイトル/キャプションは「なぜ今か」を示す時間軸フックや、「Tips」より「3ステップ」「7つの失敗」のような具体的成果を示す数字表現が効果的とされ、音声なし・文脈なしでも一瞬で理解できる明快さが2026年の共通トレンドとして強調されている。
+
+**参考情報源:**
+- [【2026年最新】ショート動画のアルゴリズム攻略法！バズる動画の作り方を徹底解説 | GOKKO Inc.](https://gokkoclub.jp/shortdrama-lab/category/study/4099/)
+- [ショート動画でバズるための構成テンプレート｜TikTok・Reels完全攻略 | TENANi](https://tenani.jp/2026/03/22/short-video-viral-template/)
+- [AI Video Hooks India 2026: Stop Scroll in 3 Seconds | TrueFan](https://www.truefan.ai/blogs/trending-hook-formats-2026)
+- [The Science of the Short-Form Video Hook: What Makes People Stop Scrolling | TrueFuture Media](https://www.truefuturemedia.com/articles/science-of-short-form-video-hooks)
+- [Short-Form Video Mastery: The 3-Second Hook Rule for 2026 | Cloudix Digital](https://cloudixdigital.com/short-form-video-mastery-how-the-3-second-hook-rule-drives-social-discovery-and-roi/)
+- [The Psychology of Viral Content: What Makes People Share in 2026 | Digital Dreamworks Studio](https://www.digitaldreamworksstudio.com/post/the-psychology-of-viral-content-what-makes-people-share-in-2026)
+- [What Makes a Video Go Viral: A Creator's 2026 Playbook | DirectAI](https://www.directai.app/blog/what-makes-a-video-go-viral)
