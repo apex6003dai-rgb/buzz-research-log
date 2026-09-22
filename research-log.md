@@ -91,3 +91,16 @@
 - [Short-Form Video Mastery: The 3-Second Hook Rule for 2026 | Cloudix Digital](https://cloudixdigital.com/short-form-video-mastery-how-the-3-second-hook-rule-drives-social-discovery-and-roi/)
 - [The Psychology of Viral Content: What Makes People Share in 2026 | Digital Dreamworks Studio](https://www.digitaldreamworksstudio.com/post/the-psychology-of-viral-content-what-makes-people-share-in-2026)
 - [What Makes a Video Go Viral: A Creator's 2026 Playbook | DirectAI](https://www.directai.app/blog/what-makes-a-video-go-viral)
+
+## 2026-09-22
+
+TikTokの完視聴率ベンチマークは、3秒到達率70%・15秒到達率60%・30秒到達率50%が2026年の目安とされ、初動でこの水準に届いた動画のみ二段階目のテスト配信に回されて大規模拡散する仕組みが指摘されている。台本構成は「フック→本編→ペイオフ」の型が共通で、フックは疑問形(脳が答えを欲しがる)・命令形・ストーリー型・数字/統計型・パターン中断型に類型化できる。シェア心理は社会的通貨・トリガー・感情・公共性(可視性)・実用的価値・物語性の6要素に整理され、台本に2〜3要素を意図的に組み込むと拡散率が上がるとされる。プラットフォーム差も明確で、Instagram Reelsは音声とテロップの両方に冒頭3秒でキーワードを置き、ハッシュタグよりキャプション文脈を重視する検索エンジン的な評価軸に移行している一方、YouTube Shortsはタイトル・説明文でのSEOとサムネイルのクリック率が発見経路として重要。共通するのは「いいね」より「保存・シェア」が強い評価シグナルである点と、音声オフでも内容が伝わる完結したテロップ設計の重要性。
+
+**参考情報源:**
+- [TikTok Algorithm 2026: 7 Hooks for Retention | HypeNest](https://hypenest.ai/blogs/tiktok-algorithm-2026-video-hooks-retention)
+- [10,000 Views, 50 Likes: The TikTok Retention Math for 2026 | Socialync](https://www.socialync.io/blog/tiktok-viral-retention-rate-2026)
+- [The Script Structure Behind Every Viral Short-Form Video | Viralo](https://viralo.studio/blog/script-structure-viral-short-form-video)
+- [What Makes a Video Go Viral in 2025? 15 Psychology Triggers Explained | Clipwise](https://www.clipwise.ai/blogs/the-psychology-behind-viral-videos-15-proven-triggers)
+- [Instagram Reels Caption & Subtitle Best Practices in 2026 | OpusClip](https://www.opus.pro/blog/instagram-reels-caption-subtitle-best-practices)
+- [Why Captions Matter More Than Hashtags on Instagram in 2026 | Lamplight Creatives](https://lamplightcreatives.com/captions-vs-hashtags-instagram-2026/)
+- [How the Instagram Algorithm Works [Updated 2026] | Sprout Social](https://sproutsocial.com/insights/instagram-algorithm/)
