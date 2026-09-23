@@ -104,3 +104,16 @@ TikTokの完視聴率ベンチマークは、3秒到達率70%・15秒到達率60
 - [Instagram Reels Caption & Subtitle Best Practices in 2026 | OpusClip](https://www.opus.pro/blog/instagram-reels-caption-subtitle-best-practices)
 - [Why Captions Matter More Than Hashtags on Instagram in 2026 | Lamplight Creatives](https://lamplightcreatives.com/captions-vs-hashtags-instagram-2026/)
 - [How the Instagram Algorithm Works [Updated 2026] | Sprout Social](https://sproutsocial.com/insights/instagram-algorithm/)
+
+## 2026-09-23
+
+2026年も各プラットフォーム共通で「最初の1〜3秒」が生死を分ける点は変わらず、TikTokでは71%のユーザーが冒頭数秒で視聴継続を判断し、アルゴリズムも1.5秒時点で初期評価を行うとされる。挨拶や自己紹介から入る「イントロ型」は明確に不利で、断言・疑問・意外な映像から即座に価値提示するフックが強い。YouTube Shortsでは2026年に入り「リプレイ率」が従来の総再生時間を上回る最重要指標となり、80〜100%の完視聴・リピート再生を生む動画が優先的に拡散される。Instagram Reelsは7〜15秒の短尺でループ再生を誘発する構成が評価されやすく、保存・シェア(送信)数が「いいね」より強いシグナルとして機能する点は各社共通。心理面では、完視聴によるツァイガルニク効果(未完了タスクの緊張と解消)や、目新しさによる好奇心刺激が視聴継続を促し、「変化・変身(ビフォーアフター)」を示す物語構成はシェア率が約4.1倍高いというデータもある。構成としては「フック(0-3秒)→パターン中断・価値提示(4-15秒)→展開→CTA/ループ誘導(ラスト5秒)」という型が定番化している。
+
+**参考情報源:**
+- [TikTok 3 Second Rule: How to Hook Viewers Fast (2026) | Teleprompter.com](https://www.teleprompter.com/blog/tiktok-3-second-rule)
+- [The 5 TikTok Hook Types That Actually Go Viral in 2026 | Opus](https://www.opus.pro/blog/tiktok-hooks-that-go-viral-2026)
+- [The 3-Second Hook: Why TikTok Videos Win or Die in 2026 | Hansen Insights](https://hansencommerce.com/insights-tiktok-hook-3-seconds)
+- [YouTube Shorts Algorithm Explained + Tips to Grow in 2026 | Metricool](https://metricool.com/youtube-shorts-algorithm/)
+- [Instagram Reels Algorithm 2026: How It Works and How to Get More Views | Miraflow](https://miraflow.ai/blog/instagram-reels-algorithm-2026-how-to-get-more-views)
+- [Short-Form Video Storytelling: 5 Structures That Work | Shortzly](https://shortzly.com/blog/short-form-video-storytelling-structures)
+- [How to Create Viral Content in 2026: The Complete Content Engineering Framework | The Viral Sauce](https://theviralsauce.com/playbooks/how-to-create-viral-content)
