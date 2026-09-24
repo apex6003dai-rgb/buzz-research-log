@@ -117,3 +117,15 @@ TikTokの完視聴率ベンチマークは、3秒到達率70%・15秒到達率60
 - [Instagram Reels Algorithm 2026: How It Works and How to Get More Views | Miraflow](https://miraflow.ai/blog/instagram-reels-algorithm-2026-how-to-get-more-views)
 - [Short-Form Video Storytelling: 5 Structures That Work | Shortzly](https://shortzly.com/blog/short-form-video-storytelling-structures)
 - [How to Create Viral Content in 2026: The Complete Content Engineering Framework | The Viral Sauce](https://theviralsauce.com/playbooks/how-to-create-viral-content)
+
+## 2026-09-24
+
+2026年のフック設計では「Contrarian Claim(逆張り主張)」「Mistake Warning(失敗警告)」「List Tease(リスト予告)」の3type が好奇心・自己関連性・明確な約束を1文に凝縮できるため特に強く、口頭フックは3秒以内=10〜14語程度に収めるのが目安とされる。キャプションは「もっと見る」で切れる直前までが第二のフックであり、冒頭一文に検索されそうなキーワードを自然に含めることでTikTok/Instagramの検索エンジン的な評価にも乗せられる。バイラリティを測る指標は「いいね」が最も弱く、完視聴率・ベースラインを上回る保存/シェア率・リピート再生の3つが実質的な評価軸。コメント誘発策としては、パート分割企画の「続き希望ならPart2とコメントして」型の引き、賛否が分かれる二項対立の提示、視聴者に試させて結果を報告させる挑戦形式、クイズ形式の問いかけが有効な一方、内容の伴わない「エンゲージメント・ベイト」的手法は2026年時点では満足度シグナルの重視により評価されにくくなっている。
+
+**参考情報源:**
+- [How to Write Viral Hooks for Short-Form Video (2026) | Kineclip](https://kineclip.com/blog/how-to-write-viral-hooks-short-form-2026/)
+- [How to Go Viral in 2026: The Exact Formats, Hooks, and Systems That Actually Work Across Platforms | Miraflow](https://miraflow.ai/blog/how-to-go-viral-2026-what-actually-works-across-platforms)
+- [20 Viral Video Hooks That Stop the Scroll in 2026 | Vexub](https://vexub.com/blog/viral-short-form-video-hooks)
+- [How to Optimize Short-Form Video in 2026 (TikTok, Reels, Shorts) | Jetfuel Agency](https://jetfuel.agency/how-to-optimize-short-form-video-content-for-success/)
+- [Increase TikTok Comments & Engagement: 10 Tips 2026 | Socialync](https://www.socialync.io/blog/increase-tiktok-comments-engagement-2026)
+- [TikTok vs. Reels vs. Shorts: 2026 Engagement Data | Socialinsider](https://www.socialinsider.io/blog/tiktok-vs-reels-vs-shorts/)
