@@ -129,3 +129,15 @@ TikTokの完視聴率ベンチマークは、3秒到達率70%・15秒到達率60
 - [How to Optimize Short-Form Video in 2026 (TikTok, Reels, Shorts) | Jetfuel Agency](https://jetfuel.agency/how-to-optimize-short-form-video-content-for-success/)
 - [Increase TikTok Comments & Engagement: 10 Tips 2026 | Socialync](https://www.socialync.io/blog/increase-tiktok-comments-engagement-2026)
 - [TikTok vs. Reels vs. Shorts: 2026 Engagement Data | Socialinsider](https://www.socialinsider.io/blog/tiktok-vs-reels-vs-shorts/)
+
+## 2026-09-25
+
+2026年のTikTokアルゴリズムでは「リプレイ(ループ)率」が完視聴率と並ぶ重要指標として扱われ、ジャンルごとに目安が異なる点が注目されている(15秒動画でコメディ/寸劇が約36%、ダンス/音楽が約34%、ストーリーテリング系は約20%とされる)。ループ率を高める設計としては、動画の最後のカットを冒頭フレームに視覚的につなげてループ感を演出する手法や、1回目の視聴では答えが分からない問いを提示し2回目の視聴で回収させる構成が有効とされる。音源選定については「バズっている音源をそのまま使う」より「伸び始めでニッチに合致した(niche-fit)音源」を選ぶ方が配信クラスタとの適合度が高く伸びやすいとされ、さらにTikTokは音声の感情トーンと映像内容の意味的整合性を解析しているとの指摘もあり、変身/ビフォーアフター系はアップテンポ、教育系は中立・環境音的な音源が推奨される。フック文言では"regret"(後悔)"embarrassed"(恥ずかしい)といった強い感情語(トリガーワード)が、倫理的かつ的確なターゲティングと組み合わさった場合に中立的な言葉より高い反応を引き出すと報告されている。またキャプションやテロップ内で検索されやすい質問文をそのまま繰り返すことがTikTok内検索での発見性を高める施策として挙げられており、単発の「バズ狙い」よりも視聴者に繰り返し価値を提供し続けるアカウント運用へと評価軸がシフトしている点も2026年の共通トレンドとして指摘されている。
+
+**参考情報源:**
+- [TikTok Algorithm 2026: How to Win With Rewatches | Darkroom Agency](https://www.darkroomagency.com/observatory/how-tiktok%E2%80%99s-algorithm-works-in-2026-and-15-tactics-to-go-viral)
+- [How TikTok's algorithm *actually* works (2026) | HeyOrca](https://www.heyorca.com/blog/how-tiktoks-algorithm-actually-works-2026)
+- [TikTok Rewatch Rate Statistics 2026 | TTS Vibes](https://insights.ttsvibes.com/tiktok-rewatch-rate-statistics)
+- [TikTok Algorithm 2026: What Creators Need to Know | Miraflow](https://miraflow.ai/blog/tiktok-algorithm-2026-what-creators-need-to-know)
+- [【2026年最新】バズる動画の共通点とは？100億回再生のプロが明かす5つの絶対法則 | GOKKO Inc.](https://gokkoclub.jp/shortdrama-lab/category/knowledge/3830/)
+- [ショート動画がバズる理由を心理学的な観点から考察してみた｜しんしん心理研究所](https://note.com/sinsin_psyclab/n/nd8a19e88ef4a)
