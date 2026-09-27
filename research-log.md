@@ -141,3 +141,15 @@ TikTokの完視聴率ベンチマークは、3秒到達率70%・15秒到達率60
 - [TikTok Algorithm 2026: What Creators Need to Know | Miraflow](https://miraflow.ai/blog/tiktok-algorithm-2026-what-creators-need-to-know)
 - [【2026年最新】バズる動画の共通点とは？100億回再生のプロが明かす5つの絶対法則 | GOKKO Inc.](https://gokkoclub.jp/shortdrama-lab/category/knowledge/3830/)
 - [ショート動画がバズる理由を心理学的な観点から考察してみた｜しんしん心理研究所](https://note.com/sinsin_psyclab/n/nd8a19e88ef4a)
+
+## 2026-09-27
+
+2026年時点のショート動画バズ手法を横断的に調査した。冒頭フックの重要性は一段と厳格化しており、Instagramリールは約1.0秒、TikTokは約1.5秒、YouTube Shortsは約2.0秒以内に注意を引かないと視聴が離脱するとされる。構成は「フック→本体→オチ(ペイオフ)」の三段構造が基本で、各プラットフォームの評価指標は完視聴率(TikTok)、視聴後のいいね/コメント/シェア(YouTube Shorts)、保存・シェア数(Instagram Reels)と異なる重み付けを持つ。タイトル・キャプションでは「答えを知りたくなる問いかけ」で情報の空白(curiosity gap)を作る手法や、検索されやすい質問文をそのまま挿入しTikTok内検索での発見性を高める手法が有効とされる。心理学的な拡散トリガーとしては、社会的通貨・感情喚起・公的可視性・実用的価値・物語性の6要素(STEPPS)が知られ、強い感情語(後悔・恥ずかしさ等)を含むフックは中立的な言葉より反応率が高い一方、2023〜2024年に有効だった既存トレンドの模倣は評価が下がりつつあり、独自のひねりを加えたオリジナル企画への評価シフトが進んでいる。
+
+**参考情報源:**
+- [How to Go Viral in 2026: The Exact Formats, Hooks, and Systems That Actually Work Across Platforms | Miraflow](https://miraflow.ai/blog/how-to-go-viral-2026-what-actually-works-across-platforms)
+- [TikTok Algorithm 2026: 7 Hooks for Retention | HypeNest](https://hypenest.ai/blogs/tiktok-algorithm-2026-video-hooks-retention)
+- [Viral Hook Formulas for Short-Form Video: The 2026 Framework | UGC Copilot](https://ugccopilot.ai/blog/viral-hooks-that-convert/)
+- [What Makes a Video Go Viral in 2025? 15 Psychology Triggers Explained | Clipwise](https://www.clipwise.ai/blogs/the-psychology-behind-viral-videos-15-proven-triggers)
+- [10 TikTok Captions That Go Viral: The Ultimate 2026 Guide | Transcriby](https://www.transcriby.io/blog/tiktok-captions-that-go-viral)
+- [【2026年最新】バズる動画の共通点とは？100億回再生のプロが明かす5つの絶対法則 | GOKKO Inc.](https://gokkoclub.jp/shortdrama-lab/category/knowledge/3830/)
