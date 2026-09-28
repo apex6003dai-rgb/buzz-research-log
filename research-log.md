@@ -153,3 +153,15 @@ TikTokの完視聴率ベンチマークは、3秒到達率70%・15秒到達率60
 - [What Makes a Video Go Viral in 2025? 15 Psychology Triggers Explained | Clipwise](https://www.clipwise.ai/blogs/the-psychology-behind-viral-videos-15-proven-triggers)
 - [10 TikTok Captions That Go Viral: The Ultimate 2026 Guide | Transcriby](https://www.transcriby.io/blog/tiktok-captions-that-go-viral)
 - [【2026年最新】バズる動画の共通点とは？100億回再生のプロが明かす5つの絶対法則 | GOKKO Inc.](https://gokkoclub.jp/shortdrama-lab/category/knowledge/3830/)
+
+## 2026-09-28
+
+2026年はランキング指標そのものの再定義が進んでいる。YouTube Shortsでは総再生時間ではなく「インプレッション当たりの視聴時間」が主軸となり、さらに2026年4月以降は視聴後アンケート・リピート視聴・外部プラットフォームへのシェア・7日以内のチャンネル再訪を統合した「視聴者満足度」が総合ランキング信号として watch time に取って代わった。完視聴の合格ラインも尺ごとに設定され、30秒未満は約65%、30〜60秒は約50%の完視聴率が拡散の分岐点とされ、15秒未満の超短尺は絶対視聴時間を稼げず2026年にリーチが崩落した一方、30〜45秒が伸びやすい最適尺として定着した。キャプション設計では、明確な要点提示→好奇心を煽る一文→自然な形でのキーワード挿入→CTA1つ、という型が定石化し、文字数は100〜300字が目安。ハッシュタグは1〜2個の的確な選択が5個以上の羅列より有効で、キャプションに質問文を入れるとコメント率が約44%向上するというデータもある。総じて、単発の話題性より「満足度」を継続的に生む設計への評価シフトが加速している。
+
+**参考情報源:**
+- [YouTube Shorts Algorithm 2026: How It Works & How To Win | SocialChamp](https://www.socialchamp.com/blog/youtube-shorts-algorithm/)
+- [YouTube Algorithm 2026: Viewer Satisfaction Replaces Watch Time | OutlierKit](https://outlierkit.com/resources/youtube-viewer-satisfaction-algorithm-2026/)
+- [YouTube Shorts Algorithm 2026: What Pushes Views Now | Socialync](https://www.socialync.io/blog/youtube-shorts-algorithm-2026)
+- [TikTok SEO Guide 2026 | Metricool](https://metricool.com/tiktok-seo/)
+- [TikTok Caption Templates That Get More Views (2026) | ShareB.io](https://shareb.io/blog/tiktok-caption-strategy)
+- [TikTok SEO Strategies: Using Keywords, Captions & Hashtags to Get Discovered in 2026 | Social Media Enthusiasts](https://socialmediaenthusiasts.com/tiktok-seo-strategies-using-keywords-captions-hashtags-to-get-discovered-in-2026/)
