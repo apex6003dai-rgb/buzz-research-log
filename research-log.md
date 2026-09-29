@@ -165,3 +165,16 @@ TikTokの完視聴率ベンチマークは、3秒到達率70%・15秒到達率60
 - [TikTok SEO Guide 2026 | Metricool](https://metricool.com/tiktok-seo/)
 - [TikTok Caption Templates That Get More Views (2026) | ShareB.io](https://shareb.io/blog/tiktok-caption-strategy)
 - [TikTok SEO Strategies: Using Keywords, Captions & Hashtags to Get Discovered in 2026 | Social Media Enthusiasts](https://socialmediaenthusiasts.com/tiktok-seo-strategies-using-keywords-captions-hashtags-to-get-discovered-in-2026/)
+
+## 2026-09-29
+
+冒頭の離脱判定はTikTokで約1.5秒、YouTube Shortsで1〜2秒、Instagram Reelsで約3秒と極めて短く、3秒視聴継続率が約70%を超えると拡散対象になりやすい。構成は「フック(0〜3秒)→ビルド(3〜6秒)→ペイオフ(6〜10秒)」の型が定石で、結末が冒頭に接続する「ループ構造」は再視聴(リプレイ)を誘発しアルゴリズム評価を高める。YouTube Shortsは尺別に完視聴率のしきい値があり(30秒未満で約65%、30〜60秒で約50%)、15秒未満の超短尺は絶対視聴時間が足りず伸びにくい一方、30〜45秒が最も伸びやすい。シェア心理としては、驚き・興奮より「喜び・感動」など前向きな感情の方が拡散力が高く、自分を賢く/共感的に見せる「社会的通貨」、好奇心ギャップ、仲間意識(社会的証明)が主な動機になる。キャプションは検索キーワードを含む一文目のフックが重要。
+
+**参考情報源:**
+- [TikTok 3 Second Rule: How to Hook Viewers Fast (2026) | Teleprompter.com](https://www.teleprompter.com/blog/tiktok-3-second-rule)
+- [TikTok Algorithm 2026: 7 Hooks for Retention | HypeNest](https://hypenest.ai/blogs/tiktok-algorithm-2026-video-hooks-retention)
+- [YouTube Shorts Algorithm 2026: How It Works & How To Win | SocialChamp](https://www.socialchamp.com/blog/youtube-shorts-algorithm/)
+- [YouTube Algorithm 2026: Viewer Satisfaction Replaces Watch Time | OutlierKit](https://outlierkit.com/resources/youtube-viewer-satisfaction-algorithm-2026/)
+- [Why People Share: The 5 Triggers Behind Viral Content | Buzzradar](https://buzzradar.com/blog/the-psychology-of-social-sharing-what-makes-content-go-viral)
+- [What Makes a Video Go Viral in 2025? 15 Psychology Triggers Explained | Clipwise](https://www.clipwise.ai/blogs/the-psychology-behind-viral-videos-15-proven-triggers)
+- [Short-Form Video Structure: Hook, Body, Payoff | Socialync](https://www.socialync.io/blog/short-form-video-structure-guide-2026)
