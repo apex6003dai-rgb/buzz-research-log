@@ -178,3 +178,15 @@ TikTokの完視聴率ベンチマークは、3秒到達率70%・15秒到達率60
 - [Why People Share: The 5 Triggers Behind Viral Content | Buzzradar](https://buzzradar.com/blog/the-psychology-of-social-sharing-what-makes-content-go-viral)
 - [What Makes a Video Go Viral in 2025? 15 Psychology Triggers Explained | Clipwise](https://www.clipwise.ai/blogs/the-psychology-behind-viral-videos-15-proven-triggers)
 - [Short-Form Video Structure: Hook, Body, Payoff | Socialync](https://www.socialync.io/blog/short-form-video-structure-guide-2026)
+
+## 2026-09-30
+
+Instagram Reelsでは2026年に入り「シェア(友人へのDM送信)」が単独最強のランキング信号として明確に位置づけられ、いいねやフォロワー数の重みは相対的に最も弱くなった。序列としては、DM共有＞保存(後で見返す価値の証明)＞完視聴・リプレイ＞コメントの順で評価され、単なる「見て面白い」より「誰かに送りたくなる」設計が重要になっている。編集面では、プラットフォームごとにカット頻度の目安が異なり(TikTokは1.5〜3秒、Reelsは2.5〜4秒、Shortsのハウツー系は3〜5秒に1回)、10〜15秒ごとのB-roll切替・ズームパンチイン・テロップ挿入などの「パターン・インタラプト」が視聴者の飽きをリセットし平均視聴時間を20〜35%押し上げるとされる。ただし単語ごとのジャンプカットのような過剰な編集はテンポは上がっても解説系動画では逆に理解を妨げ視聴離脱を招く点が注意点として挙げられている。総じて「シェアされる価値」と「飽きさせない編集リズム」の両立が2026年時点の鍵とされる。
+
+**参考情報源:**
+- [Instagram algorithm in 2026: rank signals for growth | Later](https://later.com/blog/how-instagram-algorithm-works/)
+- [Instagram Algorithm 2026: The Complete Guide | Socialync](https://www.socialync.io/blog/instagram-shares-algorithm-complete-guide-2026)
+- [The Instagram Reels Algorithm in 2026: What Changed | Fastlane](https://www.usefastlane.ai/blog/instagram-reels-algorithm-2026)
+- [Pattern Interrupts in TikTok 2026: What They Are & How to Multiply Retention | Edición Video Pro](https://edicionvideopro.com/en/editing-for-platforms-video-marketing/pattern-interrupts-tiktok-retention-guide/)
+- [Short-Form Video Pacing: The Editing Rhythm Guide (2026) | Shortzly](https://shortzly.com/blog/short-form-video-pacing-editing-guide)
+- [Pattern Interrupt Technique for Short-Form Video | CapCut](https://www.capcut.com/create/pattern-interrupt-technique-short-form-video)
