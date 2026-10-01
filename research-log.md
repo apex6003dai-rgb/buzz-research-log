@@ -190,3 +190,14 @@ Instagram Reelsでは2026年に入り「シェア(友人へのDM送信)」が単
 - [Pattern Interrupts in TikTok 2026: What They Are & How to Multiply Retention | Edición Video Pro](https://edicionvideopro.com/en/editing-for-platforms-video-marketing/pattern-interrupts-tiktok-retention-guide/)
 - [Short-Form Video Pacing: The Editing Rhythm Guide (2026) | Shortzly](https://shortzly.com/blog/short-form-video-pacing-editing-guide)
 - [Pattern Interrupt Technique for Short-Form Video | CapCut](https://www.capcut.com/create/pattern-interrupt-technique-short-form-video)
+
+## 2026-10-01
+
+2026年は「音声」と「コメント誘発」が新たな評価軸として強まっている。TikTokではトレンド楽曲の流用よりも、本人のナレーション(オリジナル音声)を使う動画の方がアルゴリズム評価が高まる傾向にあり、他ユーザーがその音源を二次利用すると流入が増える仕組みが働く。背景にはAIによる高度な解析があり、話し言葉・字幕・画面内テキスト(OCR)・音楽・構図・色味までが検索キーワードとして索引化され、キャプションだけでなく発話内容自体がTikTok内検索での発見性に影響する。コメント面では、Q&Aや「よくある誤解を正す」形式が後続の質問コメントを誘発しやすく、コメント数/再生数比が1%を超えると「会話を生む動画」としてアルゴリズムに強く評価される。動画の結び方として、断定で終わらせず質問や反論の余地を残す構成がコメント率を押し上げ、クリエイターが初期コメントに動画で返信することがさらなる拡散の起点になるとされる。
+
+**参考情報源:**
+- [【2026年最新】TikTokの最新アルゴリズムはどう変わった? | Chapter Two](https://chaptertwo.co.jp/media/tiktok-algorithm/)
+- [TikTokアルゴリズム完全攻略（2026年最新版） | andthen](https://andthen.co.jp/blog/tiktok-algorithm/)
+- [Short-Form Content Performance & Virality Metrics 2026 | InfluenceFlow](https://influenceflow.io/resources/short-form-content-performance-and-virality-metrics-the-complete-2026-guide/)
+- [Short-Form Video Strategy: The Complete 2026 Guide | Teleprompter](https://www.teleprompter.com/blog/short-form-video-strategy)
+- [10 Short-Form Video Content Strategies That Work in 2026 | RightBlogger](https://rightblogger.com/blog/short-form-video-tips)
