@@ -201,3 +201,16 @@ Instagram Reelsでは2026年に入り「シェア(友人へのDM送信)」が単
 - [Short-Form Content Performance & Virality Metrics 2026 | InfluenceFlow](https://influenceflow.io/resources/short-form-content-performance-and-virality-metrics-the-complete-2026-guide/)
 - [Short-Form Video Strategy: The Complete 2026 Guide | Teleprompter](https://www.teleprompter.com/blog/short-form-video-strategy)
 - [10 Short-Form Video Content Strategies That Work in 2026 | RightBlogger](https://rightblogger.com/blog/short-form-video-tips)
+
+## 2026-10-02
+
+冒頭3秒の「フック」は依然バズの最重要要素で、TikTokは1〜3秒以内の離脱(スワイプ)率を評価し、3秒時点で65%以上が視聴継続する動画は表示回数が4〜7倍になるとされる。効果的なフックは視覚・音声・テロップが同じ情報を補強し合い、答えを明かさず「気になる問い」を残すオープンループ構造が鍵となる。YouTube Shortsでは総視聴時間よりも「完視聴率(再生時間に対する割合)」が最重要指標とされ、上位動画は80〜90%を記録し、ループ再生も強い関心シグナルとなる一方、CTRは評価対象外。シェアを促す心理要因は、驚き・興奮など強い感情喚起が最も再現性の高い予測因子であり、「好奇心ギャップ」やドーパミン報酬系の刺激、自分を賢く見せる「社会的通貨」が挙げられる。構成面では「0〜1秒:パターン・インタラプト→1〜3秒:オープンループ→3〜8秒:当事者意識付け→8〜22秒:数秒おきの再フック→22秒以降:ペイオフと感情のピーク」という型が、ジャンルを問わず共通して見られる。
+
+**参考情報源:**
+- [TikTok Hook Formulas That Drive 3-Second Holds | Opus](https://www.opus.pro/blog/tiktok-hook-formulas)
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts | Tlinky](https://tlinky.com/3-second-hook/)
+- [How Does YouTube Shorts Algorithm Work in 2025? | Shortimize](https://www.shortimize.com/blog/how-does-youtube-shorts-algorithm-work)
+- [YouTube Shorts Algorithm 2025: How It Works & How to Win | SocialChamp](https://www.socialchamp.com/blog/?p=165511)
+- [The Psychology Behind Viral Short-Form Videos | Clippie](https://clippie.ai/blog/the-psychology-behind-viral-short-form-videos)
+- [What Makes a Video Go Viral? The Hidden Psychology Behind High-Performing Shorts | Bytecap](https://www.bytecap.io/blog/what-makes-a-video-go-viral-psychology-behind-high-performing-shorts)
+- [Pattern Interrupt Technique for Short-Form Video | CapCut](https://www.capcut.com/create/pattern-interrupt-technique-short-form-video)
