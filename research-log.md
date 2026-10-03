@@ -214,3 +214,14 @@ Instagram Reelsでは2026年に入り「シェア(友人へのDM送信)」が単
 - [The Psychology Behind Viral Short-Form Videos | Clippie](https://clippie.ai/blog/the-psychology-behind-viral-short-form-videos)
 - [What Makes a Video Go Viral? The Hidden Psychology Behind High-Performing Shorts | Bytecap](https://www.bytecap.io/blog/what-makes-a-video-go-viral-psychology-behind-high-performing-shorts)
 - [Pattern Interrupt Technique for Short-Form Video | CapCut](https://www.capcut.com/create/pattern-interrupt-technique-short-form-video)
+
+## 2026-10-03
+
+2026年の完視聴率基準はさらに上昇し、以前の50%ラインから70%以上がバズの目安となったとの報告がある。TikTokでは冒頭2秒以内に約70%の視聴者が離脱可否を判断し、最初の3秒で60%以上を失う動画は広範なFYP配信にほぼ乗らない。また新規投稿はまず既存フォロワーに強くテストされ、そこでの反応が弱いと拡散自体が止まる仕組みが強化された。キャプション/字幕面では、バイラル級動画の約80%がキャプションを使用し約79%がアニメーション字幕を採用、字幕付きはいいね数が約23%多く、キャプション内に問いかけを入れるとコメント率が約44%向上するというデータが出ている。80%以上のユーザーが音声なしで視聴する場面があるため、字幕は補助ではなく本編情報そのものとして設計する必要がある。全体として、フックの強度だけでなく「字幕の作り込み」と「フォロワーへの初期反応」が初速を左右する比重が増している。
+
+**参考情報源:**
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts | Tlinky](https://tlinky.com/3-second-hook/)
+- [The TikTok Algorithm: What Actually Works Right Now](https://instantdm.com/blog/the-tiktok-algorithm-what-actually-works-right-now)
+- [Hook Rate | Post Everywhere](https://posteverywhere.ai/social-media-terms/hook-rate)
+- [TikTok Caption & Subtitle Best Practices in 2026 | Opus](https://www.opus.pro/blog/tiktok-caption-subtitle-best-practices)
+- [10 TikTok Video Captions to Go Viral in 2026 | Postsyncer](https://postsyncer.com/blog/tiktok-video-captions)
