@@ -225,3 +225,15 @@ Instagram Reelsでは2026年に入り「シェア(友人へのDM送信)」が単
 - [Hook Rate | Post Everywhere](https://posteverywhere.ai/social-media-terms/hook-rate)
 - [TikTok Caption & Subtitle Best Practices in 2026 | Opus](https://www.opus.pro/blog/tiktok-caption-subtitle-best-practices)
 - [10 TikTok Video Captions to Go Viral in 2026 | Postsyncer](https://postsyncer.com/blog/tiktok-video-captions)
+
+## 2026-10-04
+
+ショート動画の基本構成は「フック→本編→ペイオフ」の3部構成で、フックは視覚・音声・テロップの3層が同じメッセージを補強することで最も機能する。TikTokユーザーの約7割が最初の3秒で視聴継続を判断するため、3秒時点で65%以上の視聴者を保持できた動画はそうでない動画より4〜7倍多くインプレッションを獲得するとの報告がある。YouTube Shortsのアルゴリズムは「視聴完了率」「スワイプ離脱率」を最重視しており、平均80〜90%の完視聴率を達成する動画が上位表示されやすい。視聴履歴に基づく個人最適化や毎週の投稿頻度も評価要素とされる。タイトル・キャプションでは「カリオシティギャップ(好奇心の隙間)」が最も強力な心理トリガーとされ、情報を少し見せて核心を伏せることで「閉じられていないループ」への脳の渇望を利用し視聴を継続させる。シェア行動の心理的動機としては、娯楽性・共感・トレンドへの参加意識・FOMO(見逃し恐怖)・承認欲求が挙げられ、短尺動画は低い認知負荷で即座の感情的報酬(ドーパミン放出)を提供する点が拡散力の源泉になっている。
+
+**参考情報源:**
+- [TikTok Hook Formulas That Drive 3-Second Holds | Opus](https://www.opus.pro/blog/tiktok-hook-formulas)
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts | Tlinky](https://tlinky.com/3-second-hook/)
+- [How Does YouTube Shorts Algorithm Work in 2025? | Shortimize](https://www.shortimize.com/blog/how-does-youtube-shorts-algorithm-work)
+- [YouTube Shorts Algorithm Explained + Tips to Grow in 2025 | Metricool](https://metricool.com/youtube-shorts-algorithm)
+- [How to Write Curiosity Gap Headlines That Get More Clicks in 2026 | Joyspace](https://joyspace.ai/curiosity-gap-headlines-impossible-ignore)
+- [The YouTuber's Guide to the Curiosity Gap | Descript](https://descript.com/blog/article/the-youtubers-guide-to-the-curiosity-gap-how-to-keep-your-audiences-interest)
