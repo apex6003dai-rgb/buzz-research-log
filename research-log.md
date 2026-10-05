@@ -237,3 +237,16 @@ Instagram Reelsでは2026年に入り「シェア(友人へのDM送信)」が単
 - [YouTube Shorts Algorithm Explained + Tips to Grow in 2025 | Metricool](https://metricool.com/youtube-shorts-algorithm)
 - [How to Write Curiosity Gap Headlines That Get More Clicks in 2026 | Joyspace](https://joyspace.ai/curiosity-gap-headlines-impossible-ignore)
 - [The YouTuber's Guide to the Curiosity Gap | Descript](https://descript.com/blog/article/the-youtubers-guide-to-the-curiosity-gap-how-to-keep-your-audiences-interest)
+
+## 2026-10-05
+
+Instagram Reelsのアルゴリズムは「いいね」より深いシグナルである保存率・シェア率(ストーリーズへの再シェア含む)を重視し、これらは「実用性」や強い感情的インパクトの指標として扱われる。一方TikTokでは2025年時点で視聴者が離脱判断を下す時間はさらに短縮し、スクロールを止めるには約1.3秒しか猶予がないとの報告もある。構成面では「ミニドラマ」的な急展開とサスペンスを煽る音楽を使い、速いカット編集で緊張感を持続させる手法が支持されている。タイトル/キャプションは40〜50文字程度でモバイル表示が切れる前に好奇心ギャップや大胆な主張を伝える必要があり、代表的な型として「衝撃的な統計」「共感(視聴者の経験を鏡写しにする)」「挑戦・対抗心を煽るチャレンジ」「スピード重視の変化の約束」の4カテゴリが有効とされる。シェア行動の根底には、笑いや感動を人に伝えたい欲求、トレンド参加によるつながり感、取り残される不安(FOMO)、驚きや好奇心、承認欲求といった心理的動機が共通して存在する。
+
+**参考情報源:**
+- [Why the First Few Seconds Matter | Virlo](https://virlo.ai/blog/why-the-first-few-seconds-matter)
+- [TikTok Hook Formulas That Drive 3-Second Holds | Opus](https://www.opus.pro/blog/tiktok-hook-formulas)
+- [YouTube Shorts Algorithm 2025: How It Works & How to Win | SocialChamp](https://www.socialchamp.com/blog/?p=165511)
+- [How the YouTube Shorts Algorithm REALLY Works in 2025 | Subscribr](https://subscribr.ai/youtube-strategy/youtube-shorts-algorithm-explained)
+- [Hook Formulas for Short-Form Video | CapCut](https://www.capcut.com/create/short-form-video-hooks)
+- [How to Write Hooks That Blow Up Your Content: The Psychology Behind Viral Social Media | Postiz](https://postiz.com/blog/how-to-write-viral-hooks-social-media-psychology)
+- [Viral YouTube Shorts Titles: 50 Formulas and an AI Generator Workflow | PostIgniter](https://postigniter.com/blog/viral-youtube-shorts-titles-50-formulas-and-an-ai-generator-workflow)
