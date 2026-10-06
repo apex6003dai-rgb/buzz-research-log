@@ -250,3 +250,15 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [Hook Formulas for Short-Form Video | CapCut](https://www.capcut.com/create/short-form-video-hooks)
 - [How to Write Hooks That Blow Up Your Content: The Psychology Behind Viral Social Media | Postiz](https://postiz.com/blog/how-to-write-viral-hooks-social-media-psychology)
 - [Viral YouTube Shorts Titles: 50 Formulas and an AI Generator Workflow | PostIgniter](https://postigniter.com/blog/viral-youtube-shorts-titles-50-formulas-and-an-ai-generator-workflow)
+
+## 2026-10-06
+
+2025〜2026年のショート動画バズ理論では「最初の1.5〜3秒」が最大の分岐点とされ、同じ素材でも冒頭の違いだけで400再生未満と18万再生超の差が生まれるという報告がある。アルゴリズムは単純な再生数より視聴維持率・完視聴率・保存・シェア・コメントといった「満足度シグナル」を重視する方向に進化しており、YouTube Shortsも視聴者満足度を軸に評価するとされる。フックの心理学は「好奇心ギャップ(情報格差理論)」と「感情の即時喚起」が核で、不確実性・意外性・ユーモアなどを使い脳に"解決したい"という緊張を作ることで視聴継続を促す。動画構成はフック→価値提供→ペイオフのミニストーリーアーク化が有効。タイトル/キャプションは具体的な数字や「誰も教えてくれない」等の言い回しで知識欠落感を作り、感情語(衝撃・感動等)やFOMOを煽る緊急性・限定性の訴求がシェアを後押しする。シェアを最も促す感情は怒りとの指摘もある。
+
+**参考情報源:**
+- [What Makes a Video Go Viral? The Hidden Psychology Behind High-Performing Shorts | ByteCap](https://www.bytecap.io/blog/what-makes-a-video-go-viral-psychology-behind-high-performing-shorts)
+- [24 Red-Hot Scroll-Stopping Hooks to Increase Video Retention on TikTok | Creatify](https://creatify.ai/ja/blog/24-red-hot-scroll-stopping-hooks-to-increase-video-retention-on-tiktok)
+- [YouTube Shorts Hook Formulas That Drive 3-Second Holds | Opus](https://www.opus.pro/blog/youtube-shorts-hook-formulas)
+- [How the YouTube Shorts Algorithm REALLY Works in 2025 | Subscribr](https://subscribr.ai/youtube-strategy/youtube-shorts-algorithm-explained)
+- [The science of virality: what most brands misunderstand about short-form algorithms | Growthfolks](https://growthfolks.io/social-media/the-science-of-short-form-content-virality/)
+- [Viral Video Psychology | Data Reel Maker](https://data-reel-maker.lovable.app/blog/first-three-seconds-data-video-hook)
