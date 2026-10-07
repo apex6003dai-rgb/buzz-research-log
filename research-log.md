@@ -262,3 +262,16 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [How the YouTube Shorts Algorithm REALLY Works in 2025 | Subscribr](https://subscribr.ai/youtube-strategy/youtube-shorts-algorithm-explained)
 - [The science of virality: what most brands misunderstand about short-form algorithms | Growthfolks](https://growthfolks.io/social-media/the-science-of-short-form-content-virality/)
 - [Viral Video Psychology | Data Reel Maker](https://data-reel-maker.lovable.app/blog/first-three-seconds-data-video-hook)
+
+## 2026-10-07
+
+視聴維持率の具体的ベンチマークでは、15秒未満の動画で65%超、80%超なら「優秀」とされ、YouTube Shortsは上位10%で視聴完了率91%に達する一方、中央値は45%程度と差が大きい。フック設計は「第1秒=視覚/音声のパターン・インタラプト」「第2秒=価値提示」「第3秒=好奇心ギャップ(未解決の問い)」という3層構造が効果的とされ、強いフックは保持率を約60%高めるとの報告もある。好奇心ギャップは行動経済学者Loewensteinの「知識の欠落が心理的な不快(itch)を生み、それを埋めたい欲求が行動を駆動する」という理論に基づき、ギャップは「広すぎず狭すぎず」具体的である必要があり、動画内で必ず解消しないと「釣り」と見なされ逆効果になる。シェア行動は娯楽性・情報探索・社会的交流・リラックス欲求が満足度を高め、満足度がクチコミ拡散(e-WoM)意図を強く予測するとされる。
+
+**参考情報源:**
+- [TikTok Hook Formulas That Drive 3-Second Holds | Opus](https://www.opus.pro/blog/tiktok-hook-formulas)
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts | Tlinky](https://tlinky.com/3-second-hook/)
+- [What's a Good Video Retention Rate? The Benchmarks | Quso.ai](https://quso.ai/research/video-retention-benchmarks)
+- [YouTube Shorts Retention Rate Benchmarks | GoFaceless](https://www.gofaceless.ai/en/blog/youtube-shorts-retention-rate-benchmarks)
+- [How to Write Curiosity Gap Headlines That Get More Clicks in 2026 | Joyspace](https://joyspace.ai/curiosity-gap-headlines-impossible-ignore)
+- [The Science Behind "What Happens Next?" | Virlo](https://virlo.ai/blog/the-science-behind-what-happens-next)
+- [How Short-Form Video Content Impacts Your Audience Engagement & Retention | AI Video Cut](https://blog.aivideocut.com/how-short-videos-influence-engagement-and-retention)
