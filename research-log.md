@@ -275,3 +275,15 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [How to Write Curiosity Gap Headlines That Get More Clicks in 2026 | Joyspace](https://joyspace.ai/curiosity-gap-headlines-impossible-ignore)
 - [The Science Behind "What Happens Next?" | Virlo](https://virlo.ai/blog/the-science-behind-what-happens-next)
 - [How Short-Form Video Content Impacts Your Audience Engagement & Retention | AI Video Cut](https://blog.aivideocut.com/how-short-videos-influence-engagement-and-retention)
+
+## 2026-10-08
+
+プラットフォーム別に見ると、各社の「フック許容時間」には差があり、Instagram Reelsは約1秒、TikTokは約1.5秒、YouTube Shortsは約2秒までに視聴継続の理由を示す必要があるとの指摘がある。構成面では「フック→セットアップ/本編→ペイオフ」の型が共通し、30秒動画なら冒頭3秒がフック、18秒で状況説明と緊張構築、6秒でペイオフ、残り3秒でCTAという具体的な配分例も見られる。完視聴率の閾値には諸説あるが、70%以上を「バズの可能性あり」、70%未満は「伸び悩む」とする実務的な目安が多い。フック心理学としては、矛盾した主張・意外な数字・結論の先出し・信頼性の提示といった型に加え、「後悔」「嫌い」などネガティブな語を使うと中立的な表現より反応が強くなる傾向も報告されている。ただしシェア行動そのものを対象にした一次研究は少なく、具体的な数値の多くはツールベンダー発の実務知見であり検証中の仮説として扱うべき点に留意。
+
+**参考情報源:**
+- [how tiktok's algorithm works in 2026 and 15 tactics to go viral | Darkroom Agency](https://www.darkroomagency.com/observatory/how-tiktok’s-algorithm-works-in-2026-and-15-tactics-to-go-viral)
+- [Short-Form Video Optimization: 2026 Guide | Jetfuel](https://jetfuel.agency/short-form-video-optimization-2026/)
+- [Hook Formulas for Short-Form Video: How to Win the First 3 Seconds | CapCut](https://www.capcut.com/create/short-form-video-hooks)
+- [How to Write Hooks That Stop the Scroll (2026 Guide) | Eliro](https://eliro.pro/blog/short-form-video-hooks-script-guide-2026)
+- [Scripting YouTube Shorts: Secrets to Keep Viewers Hooked in Seconds | Subscribr](https://subscribr.ai/youtube-strategy/scripting-youtube-shorts-engagement)
+- [19 ChatGPT Prompts That Write Better Video Scripts Than You (2026) | Opus](https://www.opus.pro/blog/chatgpt-prompts-video-scripts-2026)
