@@ -287,3 +287,15 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [How to Write Hooks That Stop the Scroll (2026 Guide) | Eliro](https://eliro.pro/blog/short-form-video-hooks-script-guide-2026)
 - [Scripting YouTube Shorts: Secrets to Keep Viewers Hooked in Seconds | Subscribr](https://subscribr.ai/youtube-strategy/scripting-youtube-shorts-engagement)
 - [19 ChatGPT Prompts That Write Better Video Scripts Than You (2026) | Opus](https://www.opus.pro/blog/chatgpt-prompts-video-scripts-2026)
+
+## 2026-10-09
+
+タイトル・キャプション面では、具体的な数字や「誰も教えてくれない」等の知識欠落感を作る言い回し、瞬時に読める文字量が有効とされる。構成は依然「フック(1〜3秒の認知的切断点)→価値提供→ペイオフ」が共通基盤。シェア心理では、ツァイガルニク効果(未完了は記憶に残る)と熟知性の原則(見慣れたものへの好感)が紹介され、視聴者が気軽にコメントしたくなる余白や、対象を狭く絞った「特定の人向け」設計が拡散を後押しするとされる。また娯楽性・情報探索・社会的交流・リラックス欲求の充足度が満足度を高め、満足度がクチコミ拡散意図を強く予測するという整理も見られた。ただし多くは一次研究ではなくベンダー発の実務知見で、数値の再現性は未検証と注記されている。
+
+**参考情報源:**
+- [short video viral guide | bloomeria](https://bloomeria.jp/blog/short-video-viral-guide)
+- [What Makes a Video Go Viral? The Hidden Psychology Behind High-Performing Shorts | ByteCap](https://www.bytecap.io/blog/what-makes-a-video-go-viral-psychology-behind-high-performing-shorts)
+- [Stop the Scroll in 3 Seconds: Secrets to High-Performing Short-Form Video Hooks | Jelly Marketing](https://jellymarketing.ca/blog/stop-the-scroll-in-3-seconds-secrets-to-high-performing-short-form-video-hooks/)
+- [Why the First Few Seconds Matter | Virlo](https://virlo.ai/blog/why-the-first-few-seconds-matter)
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts | Tlinky](https://tlinky.com/3-second-hook/)
+- [MarkeZine記事](https://markezine.jp/article/detail/44587)
