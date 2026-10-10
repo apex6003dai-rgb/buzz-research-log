@@ -299,3 +299,16 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [Why the First Few Seconds Matter | Virlo](https://virlo.ai/blog/why-the-first-few-seconds-matter)
 - [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts | Tlinky](https://tlinky.com/3-second-hook/)
 - [MarkeZine記事](https://markezine.jp/article/detail/44587)
+
+
+## 2026-10-10
+
+プラットフォーム別のアルゴリズム傾向を見ると、各社が重視する指標には差がある。TikTokは視聴時間を最重要信号としつつ、バズとみなされる完視聴率の目安が2024年頃の50%から2026年には70%程度まで上昇したとの指摘があり、リプレイ率が15〜20%を超えると強い好意的信号になるという説もある。Instagram Reelsは「リーチ数に対する送信(シェア)数」を最上位指標とし、保存・コメント・いいねがそれに続くとされる。YouTube Shortsは完視聴率ではなく総視聴時間(秒数)を重視し、冒頭2秒以内のスワイプ離脱率が鍵になるとの見方もある。いずれも公式な重み付けは非公開で、数値は実務者発の推定に過ぎない点に注意。キャプション/タイトル面では「パターンインタラプト」(予想と異なる言い回し・意外な数字・逆説的主張で注意を再起動する手法)と「キュリオシティギャップ」(情報を一部伏せて続きを見たくさせる手法。具体的な金額や期間を添えると達成可能感が増し効果が高まるとされる)が有効とされる。ただし視聴者を欺く見せかけのギャップは視聴維持率を損なうとの警告も一致して見られた。
+
+**参考情報源:**
+- [What works best in 2026? | Techwyse](https://www.techwyse.com/blog/infographic/best-short-video-platform-2026-instagram-reels-tiktok-youtube-shorts)
+- [What 2026 algorithms reward | Rondocin](https://rondocin.it.com/blog/what-2026-algorithms-reward)
+- [How to Optimize Short-Form Video Content in 2026 | Jetfuel](https://jetfuel.agency/how-to-optimize-short-form-video-content-for-success/)
+- [Social Media Algorithms Guide | CreatorDB](https://www.creatordb.app/blog/guides/social-media-algorithms)
+- [How to Use Pattern Interrupts to Keep Viewers Watching (2026 Guide) | Joyspace](https://joyspace.ai/pattern-interrupt-reset-attention-span)
+- [How to Write Curiosity Gap Headlines That Get More Clicks in 2026 | Joyspace](https://joyspace.ai/curiosity-gap-headlines-impossible-ignore)
