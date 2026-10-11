@@ -312,3 +312,15 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [Social Media Algorithms Guide | CreatorDB](https://www.creatordb.app/blog/guides/social-media-algorithms)
 - [How to Use Pattern Interrupts to Keep Viewers Watching (2026 Guide) | Joyspace](https://joyspace.ai/pattern-interrupt-reset-attention-span)
 - [How to Write Curiosity Gap Headlines That Get More Clicks in 2026 | Joyspace](https://joyspace.ai/curiosity-gap-headlines-impossible-ignore)
+
+
+## 2026-10-11
+
+フックの重要性は各種ガイドで一致するが数値的根拠は乏しい。多くの記事は「最初の1〜3秒で興味を断ち切る」ことを推奨し、断言・意外な映像・好奇心ギャップ・ビフォーアフターの分割画面が定番手法とされる。TikTokでは視聴時間が最重要信号、次いで完視聴率・リプレイ・シェアが続くとされ、シェアは「いいね」より強い推奨シグナルとみなされる傾向がある。構成は「フック→文脈→ペイオフ→冒頭へのループ」が共通型で、ループの回収が早すぎても遅すぎても離脱を招くため、動画の中盤以降での回収が目安とされる。キャプションは4〜7語程度の大きな文字、台本は30〜60秒で80〜150語程度が目安。ただし多くはベンダー系ブログの経験則であり、プラットフォーム公式の重み付けは非公開という限界も共通して指摘されている。
+
+**参考情報源:**
+- [Why the First Few Seconds Matter | Virlo](https://virlo.ai/blog/why-the-first-few-seconds-matter)
+- [25 Viral Video Hooks for Short-Form Videos | Metricool](https://metricool.com/viral-video-hooks/)
+- [TikTok Algorithm Guide 2026 | Darkroom Agency](https://www.darkroomagency.com/observatory/tiktok-algorithm-guide-2026-everything-we-know-about-how-videos-are-ranked)
+- [Hook Formulas for Short-Form Video | CapCut](https://www.capcut.com/create/short-form-video-hooks)
+- [Scripting YouTube Shorts: Secrets to Keep Viewers Hooked in Seconds | Subscribr](https://subscribr.ai/p/scripting-youtube-shorts-engagement)
