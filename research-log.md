@@ -324,3 +324,15 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [TikTok Algorithm Guide 2026 | Darkroom Agency](https://www.darkroomagency.com/observatory/tiktok-algorithm-guide-2026-everything-we-know-about-how-videos-are-ranked)
 - [Hook Formulas for Short-Form Video | CapCut](https://www.capcut.com/create/short-form-video-hooks)
 - [Scripting YouTube Shorts: Secrets to Keep Viewers Hooked in Seconds | Subscribr](https://subscribr.ai/p/scripting-youtube-shorts-engagement)
+
+
+## 2026-10-12
+
+フックの効果に関する一次研究は乏しく、根拠は主にマーケティング系ブログに依存する。各ソースは「開始数秒で視聴継続が決まる」点では一致するが、具体的な秒数(1.5〜3秒)や維持率の数値は記事ごとに食い違い、公式発表との整合は確認できない。効くフックの型として、断定的な問いかけ・意外な映像・未完の数字・反直感的事実などの「オープンループ」が挙げられ、視覚・音声・テキストを連動させることが推奨される。心理学的根拠としては、6秒広告は30秒広告より完視聴率が約2倍高い一方、感情的エンゲージメントは約41%低いというRealeyes/WARCの調査が比較的信頼できる数値。シェア意図を扱った2025年の973人調査(SEMモデル)では、エンタメ性・情報探索・社会的交流・リラックスが満足度を高め、満足度がシェア意図を強く予測した一方、逃避願望は有意でなかった。2025〜2026年のアルゴリズム傾向としては、保存・シェアが単純な「いいね」より強い推奨信号とみなされる方向性が複数の記事で共通して指摘されている。
+
+**参考情報源:**
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts | tlinky](https://tlinky.com/3-second-hook/)
+- [How to Write Hooks That Stop the Scroll (2026 Guide) | eliro](https://eliro.pro/blog/short-form-video-hooks-script-guide-2026)
+- [High-Performance Hooks: Writing Scroll-Stopping Intros for Short-Form Video | Postigniter](https://postigniter.com/blog/high-performance-hooks-writing-scroll-stopping-intros-for-short-form-video)
+- [Mastering short-form video | WARC](https://www.warc.com/newsandopinion/news/mastering-short-form-video/43157)
+- [How to go viral on TikTok | nemovideo](https://www.nemovideo.com/ja-JP/blog/social-media-video/how-to-go-viral-on-tiktok)
