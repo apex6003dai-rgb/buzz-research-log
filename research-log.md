@@ -336,3 +336,16 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [High-Performance Hooks: Writing Scroll-Stopping Intros for Short-Form Video | Postigniter](https://postigniter.com/blog/high-performance-hooks-writing-scroll-stopping-intros-for-short-form-video)
 - [Mastering short-form video | WARC](https://www.warc.com/newsandopinion/news/mastering-short-form-video/43157)
 - [How to go viral on TikTok | nemovideo](https://www.nemovideo.com/ja-JP/blog/social-media-video/how-to-go-viral-on-tiktok)
+
+
+## 2026-10-13
+
+今回の調査でもフックと完視聴率の重要性に関する指摘が多数のマーケティング系ブログで一致したが、具体的数値の一次ソースはやはり乏しい。共通して挙げられるのは「結論や結果からいきなり始め、前置き・ロゴ・ブランド紹介を省く」構成と、視覚(映像)・聴覚(音声)・文字(テロップ)の3層を同時に使って同じフックを強調する手法。良いフックは「設定」ではなく「緊張・未解決の問題」から始め、回収を先延ばしにする「オープンループ」が定番とされる。完視聴率・リテンションは指標として紛らわしく、YouTubeは再生開始数に対する完了数、TikTokは総再生数に対する完視聴数、Metaは最後まで達した再生回数を使うなど、プラットフォーム間で計算方法が異なるため単純比較は不可。心理的トリガーとしては「好奇心ギャップ(答えを先送りする問いかけ)」と「パターンインタラプト(冒頭1秒で惰性スクロールを中断させる)」が繰り返し挙げられた。日本語検索では、タイトル・キャプションの具体的な型に関する確かな情報は少なく、「フック文→高速カット→CTA」の簡易テンプレート以上の裏付けは見つからなかった。総じて、各ソースは「仮説としては有用だが、プラットフォームの実際の重み付けは非公開であり、自分のアカウントでABテストして検証すべき」という結論で一致している。
+
+**参考情報源:**
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts | tlinky](https://tlinky.com/3-second-hook/)
+- [TikTok Creative Best Practices: The Hook-First 3 Seconds Rule | Stackmatix](https://stackmatix.com/blog/tiktok-creative-best-practices-2026)
+- [The Psychology Behind Viewer Retention in Video Content | NISM](https://nismonline.org/the-psychology-behind-viewer-retention-in-video-content/)
+- [What Makes a Video Go Viral? The Hidden Psychology Behind High-Performing Shorts | Bytecap](https://www.bytecap.io/blog/what-makes-a-video-go-viral-psychology-behind-high-performing-shorts)
+- [Completion Rate | Kontentino](https://www.kontentino.com/social-media-urban-dictionary/completion-rate/)
+- [TikTokでバズる動画の作り方2026年版 | CapCut](https://www.capcut.com/ja-jp/resource/how-to-make-viral-tiktok-videos-2026)
