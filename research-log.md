@@ -349,3 +349,16 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [What Makes a Video Go Viral? The Hidden Psychology Behind High-Performing Shorts | Bytecap](https://www.bytecap.io/blog/what-makes-a-video-go-viral-psychology-behind-high-performing-shorts)
 - [Completion Rate | Kontentino](https://www.kontentino.com/social-media-urban-dictionary/completion-rate/)
 - [TikTokでバズる動画の作り方2026年版 | CapCut](https://www.capcut.com/ja-jp/resource/how-to-make-viral-tiktok-videos-2026)
+
+
+## 2026-10-14
+
+今回の調査でも、ショート動画バズの根拠は公式発表より実務者ブログや限定的な学術研究に依存する傾向が続いている。構成面では「フック→本編→回収」の3段構成が共通し、フックは最初の1〜3秒で視覚・音声・テロップの3層を同時に使い、視聴者が既に知っている「設定」を省いて緊張や未解決の問いから始める「オープンループ」が定番として挙げられる。心理学的裏付けとしては、Facebook Reelsで実装されたStanford GSBの研究が有力で、心理学的ヒューリスティックの中では「ピーク・エンドの法則」(体験の頂点と終わり方が記憶と評価を左右する)がリテンション予測に最も効果的だったと報告されている。同研究はいいね・シェア・コメントを「良いセッション」の高信号、非表示・離脱を「悪いセッション」の信号として扱い、大規模A/Bテストでセッション数・エンゲージメントの向上を確認したという。実務系ガイドでは完視聴率とシェアが最重要の推奨信号とされるが、プラットフォームの正確な重み付けは非公開で検証不能という点は各ソース共通の注意点。YouTube Shortsではタイトルより視聴維持率がフィード上の評価に直結するとされ、タイトルは好奇心を刺激する短い一文、ハッシュタグは説明欄に関連性の高いニッチなものを使うのが2025年時点の推奨とされる。
+
+**参考情報源:**
+- [Why the First Few Seconds Matter | Virlo](https://virlo.ai/blog/why-the-first-few-seconds-matter)
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts | tlinky](https://tlinky.com/3-second-hook/)
+- [Not All Impressions Are Created Equal: Psychology-Informed Retention Optimization for Short-Form Video Recommendation | SlidesLive](https://slideslive.com/39045801/not-all-impressions-are-created-equal-psychologyinformed-retention-optimization-for-shortform-video-recommendation)
+- [10 psychology hacks to keep viewers watching until the end | Gyre](https://gyre.pro/blog/10-psychology-hacks-to-keep-viewers-watching-until-the-end)
+- [YouTube Shorts Titles & Thumbnails: Do They ACTUALLY Matter? | Subscribr](https://subscribr.ai/p/youtube-shorts-titles-thumbnails-matter)
+- [Do Hashtags REALLY Matter for YouTube Shorts Virality in 2025? | Subscribr](https://subscribr.ai/youtube-strategy/youtube-shorts-hashtags-virality)
