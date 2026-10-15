@@ -362,3 +362,16 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [10 psychology hacks to keep viewers watching until the end | Gyre](https://gyre.pro/blog/10-psychology-hacks-to-keep-viewers-watching-until-the-end)
 - [YouTube Shorts Titles & Thumbnails: Do They ACTUALLY Matter? | Subscribr](https://subscribr.ai/p/youtube-shorts-titles-thumbnails-matter)
 - [Do Hashtags REALLY Matter for YouTube Shorts Virality in 2025? | Subscribr](https://subscribr.ai/youtube-strategy/youtube-shorts-hashtags-virality)
+
+
+## 2026-10-15
+
+今回はフック以外にキャプション・字幕の役割を中心に調査した。英語圏の記事ではTikTokの「3秒フック」原則が共通見解として繰り返し挙げられる一方、3秒維持率の具体的閾値(60〜70%台)は情報源ごとに食い違い、公式データによる裏付けは見つからなかった。日本語圏の記事では、字幕(セリフの文字起こし)とキャプション(内容や意図を補足するテキスト)は役割が異なると整理されており、テキスト付き投稿はテキストなしの投稿より平均約30%エンゲージメントが高いという数値も紹介されていたが、一次出典は不明なため参考値にとどめるべき。シェアされやすいキャプションの条件としては、投稿内容との関連性、発信者のキャラクターに合ったトーン、ハッシュタグ・メンションによる会話の誘発、視聴者の感情を揺さぶる要素が挙げられた。2025年のスタイル傾向としては、太字フォントや背景グラデーションなど可読性とブランド感を両立させるデザインが流行しているとされる。総じて、具体的数値よりも「視聴継続」「共感・会話の誘発」という原則面で各ソースの見解は一致していた。
+
+**参考情報源:**
+- [TikTok Hook Formulas That Drive 3-Second Holds | Opus](https://www.opus.pro/blog/tiktok-hook-formulas)
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts | tlinky](https://tlinky.com/3-second-hook/)
+- [47 Viral Hook Formulas That Stop the Scroll | Clipspeed](https://clipspeed.ai/blog/viral-hooks-formula.html)
+- [Types of Captions | CapCut](https://www.capcut.com/ja-jp/resource/types-of-captions)
+- [おしゃれなキャプションスタイル | CapCut](https://www.capcut.com/ja-jp/resource/caption-style)
+- [Instagram Captions Guide | FlashGet Kids](https://parental-control.flashget.com/ja/instagram-captions)
