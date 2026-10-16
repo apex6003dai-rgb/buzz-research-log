@@ -375,3 +375,19 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [Types of Captions | CapCut](https://www.capcut.com/ja-jp/resource/types-of-captions)
 - [おしゃれなキャプションスタイル | CapCut](https://www.capcut.com/ja-jp/resource/caption-style)
 - [Instagram Captions Guide | FlashGet Kids](https://parental-control.flashget.com/ja/instagram-captions)
+
+
+## 2026-10-16
+
+今回はフック構成・心理トリガー・タイトル/キャプションの3領域を横断的に再調査した。フックについては「冒頭1〜3秒で視覚・音声・テロップを同時に使い、設定説明を省いて緊張や問いから始める」という構成論が引き続き各ソースで一致しているが、「1.3秒で離脱判断」「完視聴率92%で3倍増幅」などの具体的数値はいずれも出典不明のマーケティングブログの主張で、裏付けは取れなかった。心理トリガーでは「好奇心ギャップ」(答えを先送りするオープンループ)が最も繰り返し言及され、視聴者が「騙された」と感じると信頼を失うためフック内で提示した約束は動画内で必ず回収すべきという指摘が共通していた。指標面では、平均視聴時間・視聴完了率・再視聴/シェア/保存は別種の満足度を示す指標として区別すべきとされる。タイトル・キャプションについては意見が分かれ、YouTube Shortsはキーワードよりも視聴維持率などの即時エンゲージメント反応を重視するとの見解が強いが、別の記事は説明欄冒頭2行が検索ランキングに影響するとも主張しており未検証。TikTokはキャプション冒頭にキーワードを自然に入れる会話調が推奨され、ハッシュタグは検索より分類用の弱い信号とされた。総じて、各プラットフォームのアルゴリズムは非公開であり、具体的数値より「視聴維持」「約束の回収」「分かりやすい分類情報」という原則レベルでの一致が目立った。
+
+**参考情報源:**
+- [TikTok Hook Formulas That Drive 3-Second Holds | Opus](https://www.opus.pro/blog/tiktok-hook-formulas)
+- [YouTube Shorts Hook Formulas That Drive 3-Second Holds | Opus](https://www.opus.pro/blog/youtube-shorts-hook-formulas)
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts | tlinky](https://tlinky.com/3-second-hook/)
+- [7 Video Hook Formulas to Improve Short-Form Watch Time | Faceless](https://faceless.so/blog/7-video-hook-formulas-to-improve-watch-time)
+- [What Makes a Video Go Viral? The Hidden Psychology Behind High-Performing Shorts | Bytecap](https://www.bytecap.io/blog/what-makes-a-video-go-viral-psychology-behind-high-performing-shorts)
+- [The YouTuber's Guide to the Curiosity Gap | Descript](https://descript.com/blog/article/the-youtubers-guide-to-the-curiosity-gap-how-to-keep-your-audiences-interest)
+- [The Complete YouTube Shorts SEO Guide for Better Discoverability | Subscribr](https://subscribr.ai/youtube-strategy/youtube-shorts-seo-guide)
+- [YouTube Shorts Titles & Thumbnails: Do They ACTUALLY Matter? | Subscribr](https://subscribr.ai/p/youtube-shorts-titles-thumbnails-matter)
+- [12 SEO Tips for YouTube Shorts and TikTok Videos | Eliro](https://eliro.pro/blog/12-seo-tips-youtube-shorts-tiktok)
