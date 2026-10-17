@@ -391,3 +391,18 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [The Complete YouTube Shorts SEO Guide for Better Discoverability | Subscribr](https://subscribr.ai/youtube-strategy/youtube-shorts-seo-guide)
 - [YouTube Shorts Titles & Thumbnails: Do They ACTUALLY Matter? | Subscribr](https://subscribr.ai/p/youtube-shorts-titles-thumbnails-matter)
 - [12 SEO Tips for YouTube Shorts and TikTok Videos | Eliro](https://eliro.pro/blog/12-seo-tips-youtube-shorts-tiktok)
+
+
+## 2026-10-17
+
+今回はフック・完視聴率・構成パターンを再調査した。冒頭1〜3秒(TikTokは1.5〜2秒という説も)で視覚・音声・テロップの3層を揃え、設定説明を省いて「オープンループ」(答えを先送りする問い)から始める構成は各ソースで一致。心理的裏付けとしては好奇心ギャップが最も頻出するが、「完視聴率92%で3倍増幅」等の具体数値は出典不明のマーケティングブログの主張で未検証。アルゴリズム上は完視聴率・視聴維持率が中心的な品質信号とされ、YouTube Shorts平均視聴維持率は約45%、上位10%は91%という調査もあるが一企業の分析に過ぎない。構成テンプレートとして「フック→オープンループ→アイデンティティ共感→ドパミン的山場→回収→感情の高まり(シェア誘発)」の型が複数ソースで共通。ループ編集(終わりが始まりに繋がる)でリプレイを誘発する手法も紹介されたが、効果の数値は裏付けなし。キャプションは音声なし視聴対策として重要との指摘が続くが、具体的割合(オフ視聴40%等)は未検証。総じて、各プラットフォームの正式な重み付けは非公開で、原則レベル(維持率重視・約束の回収・テロップ必須)の一致が目立つ一方、数値的根拠は乏しい。
+
+**参考情報源:**
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts | tlinky](https://tlinky.com/3-second-hook/)
+- [8 Things All Viral TikToks Do in the First 3 Seconds (2026) | Opus](https://www.opus.pro/blog/viral-tiktoks-first-3-seconds-2026)
+- [Why Your Reels Aren't Going Viral: The Hook Framework That Actually Works | Postiz](https://postiz.com/blog/why-your-reels-arent-going-viral-hook-framework)
+- [What's a Good Video Retention Rate? The Benchmarks | Quso.ai](https://quso.ai/research/video-retention-benchmarks)
+- [7 Video Hook Formulas to Improve Short-Form Watch Time | Faceless](https://faceless.so/blog/7-video-hook-formulas-to-improve-watch-time)
+- [How to Go Viral on TikTok in 2026 (Pattern That Works for Real Accounts) | Unilink](https://www.unilink.us/blog/how-to-go-viral-on-tiktok-2026)
+- [How to Loop Videos to Double Views: The Algorithm Hack for 2026 | Joyspace](https://joyspace.ai/looping-hack-trick-algorithm-double-views)
+- [What Makes a Video Go Viral? The Hidden Psychology Behind High-Performing Shorts | Bytecap](https://www.bytecap.io/blog/what-makes-a-video-go-viral-psychology-behind-high-performing-shorts)
