@@ -406,3 +406,17 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [How to Go Viral on TikTok in 2026 (Pattern That Works for Real Accounts) | Unilink](https://www.unilink.us/blog/how-to-go-viral-on-tiktok-2026)
 - [How to Loop Videos to Double Views: The Algorithm Hack for 2026 | Joyspace](https://joyspace.ai/looping-hack-trick-algorithm-double-views)
 - [What Makes a Video Go Viral? The Hidden Psychology Behind High-Performing Shorts | Bytecap](https://www.bytecap.io/blog/what-makes-a-video-go-viral-psychology-behind-high-performing-shorts)
+
+
+## 2026-10-18
+
+今回はプラットフォーム別アルゴリズムの違いと、シェアを促す心理的トリガーを調査した。各社は正式な重み付けを公開していないため情報はマーケティングブログの推測に留まるが、共通して「視聴時間・完視聴率・リプレイ」が主要信号とされる。差異としては、TikTokは新規アカウントでも少数テスト配信で拡散判定しフォロワー数に依存しにくい設計、Instagram Reelsは既存フォロワーの反応を非フォロワーへ拡散する関係性重視、YouTube Shortsはスワイプ継続率に加え検索適合性も信号に含むとされた。シェア心理については「高覚醒感情(驚き・畏敬など)」が拡散を促すという実務的な解説が複数あったが、査読済み研究はほとんど見つからず、MIT発のRCT(2026年5月開始・12月終了予定)が進行中で結果は未公表。総じて、プラットフォーム差の方向性と感情トリガーの原則は各ソースで一致するが、具体的な重み付け数値や学術的裏付けは乏しい。
+
+**参考情報源:**
+- [Instagram Reels vs TikTok vs YouTube Shorts: What Works Best in 2026? | TechWyse](https://www.techwyse.com/blog/infographic/best-short-video-platform-2026-instagram-reels-tiktok-youtube-shorts)
+- [Social Media Algorithms Guide | CreatorDB](https://creatordb.app/blog/social-media-algorithms/)
+- [Reels vs TikTok: What Are Their Similarities and Differences? | Vamp](https://vamp.com/insights/reels-vs-tiktok-what-are-their-similarities-and-differences/)
+- [The Complete Instagram Reels Guide 2026 | Metricool](https://metricool.com/instagram-reels-guide/)
+- [Use Emotion to Make Viral Videos | Creatify](https://creatify.ai/ja/blog/use-emotion-to-make-viral-videos)
+- [Emotions and Social Media Content (RCT registry) | Social Science Registry](https://www.socialscienceregistry.org/trials/18673)
+- [nazology.kusuguru.co.jp](https://nazology.kusuguru.co.jp/archives/193599/2)
