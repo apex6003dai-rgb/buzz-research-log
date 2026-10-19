@@ -420,3 +420,18 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [Use Emotion to Make Viral Videos | Creatify](https://creatify.ai/ja/blog/use-emotion-to-make-viral-videos)
 - [Emotions and Social Media Content (RCT registry) | Social Science Registry](https://www.socialscienceregistry.org/trials/18673)
 - [nazology.kusuguru.co.jp](https://nazology.kusuguru.co.jp/archives/193599/2)
+
+
+## 2026-10-19
+
+今回は編集テクニック(ジャンプカット・パターンインタラプト)とトレンド音源の活用を調査した。短尺動画ではジャンプカットが標準的な編集様式とされ、従来の映画文法で避けられていた手法が今はスタイルそのものになっているとの指摘が複数あった。目安として「0.3秒以上の無音はカット」「1〜2秒ごとに視覚・音声の変化を入れる」という具体的数値が紹介されたが、いずれも個々のクリエイターの経験則で裏付けは弱い。パターンインタラプト(ビジュアルスタイルの急な変化や予期しない要素の挿入)は視聴者の再集中を促す手法として共通して言及された。トレンド音源については、TikTokが音源ごとに他動画でテスト配信し反応を学習する仕組みがあるとされ、成長期(ピーク前)の音源を使うのが有効との指摘が複数あったが、「3.2倍再生」等の具体的数値は一次資料で確認できず、Instagramでは音源の重み付けはさらに不透明とされた。総じて、編集・音源選びも「視聴維持」「再集中の仕掛け」という原則レベルでは各ソースが一致する一方、数値的根拠は乏しい。
+
+**参考情報源:**
+- [Mastering Pacing in Travel Vlogs for Short-Form Video | Splice](https://spliceapp.com/blog/mastering-pacing-in-travel-vlogs-for-short-form-videos/)
+- [A Guide to Short Form Video Editing | Virlo](https://virlo.ai/blog/short-form-video-editing)
+- [Jump Cut Definition | Klap](https://klap.app/blog/jump-cut-definition)
+- [Jump Cuts vs Dissolves vs Smash Cuts (2026) | Blitzcut](https://blitzcutai.com/blog/jump-cuts-vs-cross-dissolves-vs-smash-cuts)
+- [13 Trending Songs on TikTok in February 2026 (+ How to Use Them) | Buffer](https://buffer.com/resources/trending-songs-tiktok)
+- [Use Trending Audio to Gain More TikTok/Reels Likes | Social Investigation](https://www.socinvestigation.com/use-trending-audio-to-gain-more-tiktok-reels-likes/)
+- [How to Find Trending Sounds on Instagram | Socialz](https://socialz.ai/blog/how-to-find-trending-sounds-on-instagram)
+- [The Ultimate Guide to Trending TikTok Audios in 2026 | InfluenceFlow](https://influenceflow.io/resources/the-ultimate-guide-to-trending-tiktok-audios-in-2026-discover-create-and-grow/)
