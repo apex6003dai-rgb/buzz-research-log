@@ -435,3 +435,18 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [Use Trending Audio to Gain More TikTok/Reels Likes | Social Investigation](https://www.socinvestigation.com/use-trending-audio-to-gain-more-tiktok-reels-likes/)
 - [How to Find Trending Sounds on Instagram | Socialz](https://socialz.ai/blog/how-to-find-trending-sounds-on-instagram)
 - [The Ultimate Guide to Trending TikTok Audios in 2026 | InfluenceFlow](https://influenceflow.io/resources/the-ultimate-guide-to-trending-tiktok-audios-in-2026-discover-create-and-grow/)
+
+## 2026-10-20
+
+今回はフック設計・視聴維持の心理・アルゴリズム傾向・キャプション/タイトルを横断的に調査した。フックは「冒頭で結末や最も意外な絵を見せる」「感情を一つに絞る」「視覚・音声・テロップの3層を揃える」「オープンループ(未解決の引き)を作る」が共通して推奨され、トレンド音源だけに頼る構成は弱いとされた。視聴維持には展開の見通しを示す構成(進行感)やキュリオシティギャップが効くとの指摘があったが、根拠は創作者ブログ中心で学術的裏付けは薄い。シェアは「他者に見せたくなる価値」、リピート視聴は「予想外の展開・ループ構成」が引き金とされる。アルゴリズムは完視聴率と視聴時間が最重要信号という点で各ソースが一致するが、保存・シェアの重み付けや具体的閾値(完視聴率70%等)は非公式情報で裏付けが弱い。YouTube Shortsはキャプションが完視聴率に直結するため必須、タイトルは20〜40字程度で数字・疑問形・ベネフィット提示が効果的とされた。いずれも一次資料ではなくマーケティングブログが中心のため、数値は参考程度に留めるべき。
+
+**参考情報源:**
+- [8 Things All Viral TikToks Do in the First 3 Seconds (2026) | Opus](https://www.opus.pro/blog/viral-tiktoks-first-3-seconds-2026)
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts | Tlinky](https://tlinky.com/3-second-hook/)
+- [Best TikTok Hooks for 2026 (40 Templates That Still Work) | BlitzCut](https://blitzcutai.com/blog/best-tiktok-hooks-2026)
+- [The Psychology Behind Viewer Retention in Video Content | NISM](https://nismonline.org/the-psychology-behind-viewer-retention-in-video-content/)
+- [Stop Trying to Go Viral | Choly AI](https://cholyai.beehiiv.com/p/stop-trying-to-go-viral)
+- [TikTok Algorithm 2026: How to Go Viral and Master the FYP | SocialChamp](https://www.socialchamp.com/blog/?p=42771)
+- [How the TikTok Algorithm Works | Virlo](https://virlo.ai/blog/how-the-tiktok-algorithm-works)
+- [YouTube Shorts Caption & Subtitle Best Practices in 2026 | Opus](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices)
+- [How to Write Viral Titles and Descriptions for Shorts in 2026 | ClipSpeed](https://www.clipspeed.ai/blog/how-to-write-viral-titles-descriptions-shorts.html)
