@@ -450,3 +450,15 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [How the TikTok Algorithm Works | Virlo](https://virlo.ai/blog/how-the-tiktok-algorithm-works)
 - [YouTube Shorts Caption & Subtitle Best Practices in 2026 | Opus](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices)
 - [How to Write Viral Titles and Descriptions for Shorts in 2026 | ClipSpeed](https://www.clipspeed.ai/blog/how-to-write-viral-titles-descriptions-shorts.html)
+
+## 2026-10-21
+
+今回は視聴・シェア動機に関する学術的知見と、動画の構成パターンを横断的に調査した。南アフリカでの973人調査では、娯楽性・情報収集・社会的交流・リラックスが視聴満足度を高める一方、現実逃避は有意な効果を示さず、満足度の高さがシェア意向(口コミ的拡散、e-WoM)を強く後押しすると報告されている。構成面では「Hook(0〜5秒)→Build(展開で期待に応える)→Reward(結末・落ち)」という型が複数の実務ブログで共通して推奨された。冒頭で結論や最も意外な絵を見せる、具体的な数字・固有名詞を早期に提示する、未解決の引き(オープンループ)を作る、といった手法も繰り返し言及された。ループ構成は単純な繰り返しではなく新情報を加えて「進行感」を出すことが重要とされ、視覚・音声の切り替えは4秒前後が目安とされたが根拠は薄い。キャプションは無音視聴者対策として必須という点も一致していた。全体として一次資料(プラットフォーム公式ガイド)は乏しく、マーケティングブログや学部生資料が中心のため、数値は参考程度に留めるべき。
+
+**参考情報源:**
+- [Determinants of short video viewers' satisfaction and its impact on e-WoM | UJ Research Portal](https://pure.uj.ac.za/en/publications/determinants-of-short-video-viewers-satisfaction-and-its-impact-o/)
+- [Best Structure for Short-Form Videos | Wolfpack Advising](https://wolfpackadvising.com/blog/best-structure-for-short-form-videos/)
+- [The Perfect YouTube Short: Ideal Length, Structure & Hooks | Subscribr](https://subscribr.ai/youtube-strategy/perfect-youtube-short-length-structure-hooks)
+- [Looping Narrative Hooks: How the 3-Second Repeat Technique Boosts Watch Time | CapCut](https://www.capcut.com/create/looping-narrative-hooks-watch-time)
+- [YouTube Shorts Best Practices (2026): 10 Proven Tips for Maximum Views | JoinBrands](https://joinbrands.com/blog/youtube-shorts-best-practices/)
+- [10 Proven Strategies to Succeed with Short-Form Video Content in 2026 | RightBlogger](https://rightblogger.com/blog/short-form-video-tips)
