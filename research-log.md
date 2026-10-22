@@ -462,3 +462,18 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [Looping Narrative Hooks: How the 3-Second Repeat Technique Boosts Watch Time | CapCut](https://www.capcut.com/create/looping-narrative-hooks-watch-time)
 - [YouTube Shorts Best Practices (2026): 10 Proven Tips for Maximum Views | JoinBrands](https://joinbrands.com/blog/youtube-shorts-best-practices/)
 - [10 Proven Strategies to Succeed with Short-Form Video Content in 2026 | RightBlogger](https://rightblogger.com/blog/short-form-video-tips)
+
+## 2026-10-22
+
+今回はアルゴリズムの「コメント/リプライ」の重み、投稿頻度・一貫性の効果、Duet/Stitch(二次創作)によるバズ拡散を調査した。Instagram Reelsでは視聴維持率とDM経由のシェアが最重要信号とされ、DM送信は公開コメントより「本物の口コミ」として強い信号という指摘が複数あった一方、「返信のある会話が明示的にブーストされる」という説は一次資料で確認できず不確実とした。TikTokのコメント/リプライの重み付けに関する2026年の具体的情報は見つからず、開示の少なさが背景にあるとされる。投稿頻度については、Bufferの実データ(10万ユーザー超)で「26週中20週以上投稿した層は4週以下の層よりエンゲージメントが約450%高い」と報告され、頻度より継続性が効くという一次データに近い根拠があった。TikTok/Instagramでは1日1〜3回や週4〜7回といった具体的頻度推奨もあるが出典はベンダーブログで相互に数値が食い違う。Duet/Stitchは「既存オーディエンスを借りる」ことで新規視聴者層に届く効果が実務者の間で語られるが、具体的な拡散倍率などは未検証の主張に留まる。総じて、一次データに近い裏付け(Buffer調査)とマーケティングブログの推測が混在し、数値は参考程度に扱うべき。
+
+**参考情報源:**
+- [Instagram Reels Algorithm: Full Guide (2026) | Adaptly Post](https://adaptlypost.com/en/blog/instagram-reels-algorithm)
+- [Instagram Reels Algorithm 2026: How to Get on the Explore Page | ClipSpeed](https://clipspeed.ai/blog/instagram-reels-algorithm.html)
+- [How the Instagram Algorithm Works in 2026 (And How to Use It) | Smash Balloon](https://smashballoon.com/how-the-instagram-algorithm-works/)
+- [How to Grow on Social Media in 2026: A Data-Backed Strategy | Buffer](https://buffer.com/resources/creator-growth-playbook)
+- [How to Grow on YouTube in 2026: A Data-Backed Guide to Growing Your Channel | Metricool](https://metricool.com/how-to-grow-on-youtube/)
+- [How Often Should You Post on TikTok? | Social Champ](https://www.socialchamp.com/blog/how-often-should-you-post-on-tiktok/)
+- [The Perfect Content Calendar for Short-Form Creators in 2026 | ClipSpeed](https://www.clipspeed.ai/blog/content-calendar-short-form-creators.html)
+- [TikTok Stitch vs Duet: Which Feature Works Best for You? | Mega Digital](https://megadigital.ai/en/blog/tiktok-stitch-vs-duet/)
+- [How to Stitch Video on TikTok: The Secret to Go Viral in 2026 | Mega Digital](https://megadigital.ai/en/blog/how-to-stitch-video-on-tiktok/)
