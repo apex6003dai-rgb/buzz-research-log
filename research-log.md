@@ -477,3 +477,17 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [The Perfect Content Calendar for Short-Form Creators in 2026 | ClipSpeed](https://www.clipspeed.ai/blog/content-calendar-short-form-creators.html)
 - [TikTok Stitch vs Duet: Which Feature Works Best for You? | Mega Digital](https://megadigital.ai/en/blog/tiktok-stitch-vs-duet/)
 - [How to Stitch Video on TikTok: The Secret to Go Viral in 2026 | Mega Digital](https://megadigital.ai/en/blog/how-to-stitch-video-on-tiktok/)
+
+## 2026-10-24
+
+今回はフックの定量的根拠、シェアを促す心理トリガー、YouTube Shortsのランキング要因を横断的に再調査した。3秒フックについては「冒頭の完視聴率が7割を切ると伸びない」という主張が一部ブログに見られるが一次資料はなく、別の分析では短尺動画で8割以上が良好な目安とされるなど数値は食い違う。共通するのはTikTok/Reels/Shortsいずれも開始数秒の離脱率が配信規模を左右するという点で、オープンループ・パターンインターラプト(予想を裏切る展開)・好奇心の隙間(curiosity gap)を使う手法が繰り返し推奨された。シェア動機としてはツァイガルニク効果(未完了の物事が記憶に残る)、新奇性によるドーパミン放出、アイデンティティ表現・社会的証明が主要因として挙がったが、具体的な倍率(例:コメント数が数倍に増える等)は個人の実験結果で学術的検証はない。YouTube Shortsのアルゴリズムについては、YouTube公式担当者も「単一の正解はない」と明言しており、完視聴率とリプレイ(ループ再生)が重視される一方、CTRはShortsフィードでは追跡されていないとの指摘があった。全体として数値的な閾値の多くは検証不可能なベンダー発の経験則であり、再現性には注意が必要。
+
+**参考情報源:**
+- [TikTok Hook Formulas That Drive 3-Second Holds | Opus](https://www.opus.pro/blog/tiktok-hook-formulas)
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts | Tlinky](https://tlinky.com/3-second-hook/)
+- [Compare Watch Time: TikTok vs Reels vs Shorts | Shortimize](https://www.shortimize.com/blog/compare-watch-time-tiktok-vs-reels-vs-shorts)
+- [The Science Behind "What Happens Next?" | Virlo](https://virlo.ai/blog/the-science-behind-what-happens-next)
+- [What Makes a Video Go Viral? The Hidden Psychology Behind High-Performing Shorts | Bytecap](https://www.bytecap.io/blog/what-makes-a-video-go-viral-psychology-behind-high-performing-shorts)
+- [How Does YouTube Shorts Algorithm Work in 2025? | Shortimize](https://www.shortimize.com/blog/how-does-youtube-shorts-algorithm-work)
+- [YouTube Shorts Algorithm 2025: How It Works & How to Win | Social Champ](https://www.socialchamp.com/blog/?p=165511)
+
