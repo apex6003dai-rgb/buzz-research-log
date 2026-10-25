@@ -491,3 +491,16 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [How Does YouTube Shorts Algorithm Work in 2025? | Shortimize](https://www.shortimize.com/blog/how-does-youtube-shorts-algorithm-work)
 - [YouTube Shorts Algorithm 2025: How It Works & How to Win | Social Champ](https://www.socialchamp.com/blog/?p=165511)
 
+## 2026-10-25
+
+今回はフック理論・心理学的トリガー・TikTokアルゴリズムの三方向を再調査した。フックについては「オープンループ(payoffを先延ばしする構成)」と、視覚・発話・テロップの3層が同じ情報を補強する設計が繰り返し推奨されるが、「強いフックで保持率が約60%向上」のような数値は出典が「最近の研究」止まりで検証不能であり、各ブログが独自の体感値を根拠なく掲げている点は変わらない。心理トリガー面では、低障壁での発見性・明確な冒頭の約束・情報の焦点化・ユーモア・好奇心・感情的関連性が視聴・シェアの仮説的要因として整理された学術レビュー(Aalto大学2025年)があり、これらは「検証すべき仮説」であって確立した法則ではないと明記されている点が重要。アルゴリズムについては、TikTok公式見解として視聴時間・完視聴率・リプレイ・いいね・コメント・シェア・フォローが主要信号とされ、シェアはいいねより重く評価され、完視聴率より総視聴時間(長尺×一部視聴)が優先されるケースもあるとの分析があった。75〜100%の完視聴率で急激にブーストされるという具体的閾値は非公式情報であり裏付けは弱い。
+
+**参考情報源:**
+- [TikTok Hook Formulas That Drive 3-Second Holds | Opus](https://www.opus.pro/blog/tiktok-hook-formulas)
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts | Tlinky](https://tlinky.com/3-second-hook/)
+- [Why the First Few Seconds Matter | Virlo](https://virlo.ai/blog/why-the-first-few-seconds-matter)
+- [The importance of short-form video marketing in contemporary marketing | Aalto University](https://aaltodoc.aalto.fi/items/0f47546c-2703-47f9-bf37-10344fc90280/full)
+- [How Short-Form Video Content Impacts Your Audience Engagement & Retention on Social Media | AI Video Cut](https://blog.aivideocut.com/how-short-videos-influence-engagement-and-retention)
+- [TikTok Algorithm 2025: Complete Guide for Marketers | Dataslayer](https://www.dataslayer.ai/blog/tiktok-algorithm-2025-complete-guide-for-marketers)
+- [TikTok Algorithm Guide 2026: Everything We Know About How Videos Are Ranked | Darkroom Agency](https://www.darkroomagency.com/observatory/tiktok-algorithm-guide-2026-everything-we-know-about-how-videos-are-ranked)
+
