@@ -504,3 +504,15 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [TikTok Algorithm 2025: Complete Guide for Marketers | Dataslayer](https://www.dataslayer.ai/blog/tiktok-algorithm-2025-complete-guide-for-marketers)
 - [TikTok Algorithm Guide 2026: Everything We Know About How Videos Are Ranked | Darkroom Agency](https://www.darkroomagency.com/observatory/tiktok-algorithm-guide-2026-everything-we-know-about-how-videos-are-ranked)
 
+
+## 2026-10-27
+
+ショート動画のバズは冒頭2〜3秒のフック設計が最大の鍵で、断定・数字・意外性のある発言、ビフォーアフターの「完成形」を先出しする構成、オープンループ(未解決の疑問)を作ることで離脱を防ぐ。台本構成は「0-3秒フック→3-15秒で課題提示・意外性の補強→15-45秒で解決・本編→最後5秒でCTAまたはループ再生を誘う締め」が定番パターンとして複数ソースで共通していた。字幕・テロップは音声オフ視聴対策として冒頭から必須、画面中央にフックとキャプションを配置しUIによる隠れを回避するのが推奨される。タイトル・キャプションは「何を約束し何を隠すか」のカーブ(curiosity gap)の幅が重要で、広すぎると釣りと判断され、狭すぎるとクリック動機が生まれない。具体的な数字・固有名詞を入れた具体性のあるタイトルほどアルゴリズムのマッチング精度も上がるとされる。シェア心理としては「賛否が分かれる比較(this vs that)でコメント欄に自分の立場を表明したくなる」「仲間意識・共感・自分が賢く見える」等が引き続き有力な仮説。ただし出典の多くはベンダー系ブログであり、具体的な秒数・パーセンテージの数値は未検証の主張として扱う必要がある。
+
+**参考情報源:**
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts](https://tlinky.com/3-second-hook/)
+- [8 Things All Viral TikToks Do in the First 3 Seconds (2026)](https://www.opus.pro/blog/viral-tiktoks-first-3-seconds-2026)
+- [AI Shorts Script & Hook Ultimate Guide 2026](https://virvid.ai/blog/ai-shorts-script-hook-ultimate-guide-2026)
+- [Scripting YouTube Shorts: Secrets to Keep Viewers Hooked in Seconds](https://subscribr.ai/p/scripting-youtube-shorts-engagement)
+- [How to Write Curiosity Gap Headlines That Get More Clicks in 2026](https://joyspace.ai/curiosity-gap-headlines-impossible-ignore)
+- [Hook Formulas for Short-Form Video: How to Win the First 3 Seconds With AI Video Workflows - CapCut](https://www.capcut.com/create/short-form-video-hooks)
