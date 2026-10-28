@@ -516,3 +516,15 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [Scripting YouTube Shorts: Secrets to Keep Viewers Hooked in Seconds](https://subscribr.ai/p/scripting-youtube-shorts-engagement)
 - [How to Write Curiosity Gap Headlines That Get More Clicks in 2026](https://joyspace.ai/curiosity-gap-headlines-impossible-ignore)
 - [Hook Formulas for Short-Form Video: How to Win the First 3 Seconds With AI Video Workflows - CapCut](https://www.capcut.com/create/short-form-video-hooks)
+
+## 2026-10-28
+
+今回は構成・アルゴリズム・心理トリガーの3点を再確認した。構成は「フック→本編→回収」の3部構成が主流で、冒頭1.5〜3秒で視聴継続か離脱かが決まるとされる。フックはオープンループ(未解決の疑問を残す)、パターン・インターラプト、いきなり本編に入る「ファーストフレーム」型が有効。アルゴリズム面では、再生時間そのものより完視聴率・リプレイ(ループ再生)・シェア/保存率が重視され、TikTok・Shortsともに「いいね」より深い指標が重みを増しているとの見立てが複数の二次ソースで共通していた。タイトル/キャプションは「好奇心の隙間(curiosity gap)」理論(Loewenstein, 1994)が土台で、具体性のある数字・断言・社会的通貨(ゴシップ性・脆弱性の開示)を含めると共有意欲が高まるとされる。いずれも公式発表ではなくマーケティング系ブログの推測が多く、数値は参考値として扱うべき。
+
+参考情報源:
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts](https://tlinky.com/3-second-hook/)
+- [10 Proven Strategies to Succeed with Short-Form Video Content in 2026](https://rightblogger.com/blog/short-form-video-tips)
+- [How Does YouTube Shorts Algorithm Work in 2025?](https://www.shortimize.com/blog/how-does-youtube-shorts-algorithm-work)
+- [compare watch time tiktok vs reels vs shorts](https://www.shortimize.com/blog/compare-watch-time-tiktok-vs-reels-vs-shorts)
+- [the youtubers guide to the curiosity gap how to keep your audiences interest](https://descript.com/blog/article/the-youtubers-guide-to-the-curiosity-gap-how-to-keep-your-audiences-interest)
+- [Viral YouTube Shorts Titles: 50 Formulas and an AI Generator Workflow](https://postigniter.com/blog/viral-youtube-shorts-titles-50-formulas-and-an-ai-generator-workflow)
