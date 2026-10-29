@@ -528,3 +528,15 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [compare watch time tiktok vs reels vs shorts](https://www.shortimize.com/blog/compare-watch-time-tiktok-vs-reels-vs-shorts)
 - [the youtubers guide to the curiosity gap how to keep your audiences interest](https://descript.com/blog/article/the-youtubers-guide-to-the-curiosity-gap-how-to-keep-your-audiences-interest)
 - [Viral YouTube Shorts Titles: 50 Formulas and an AI Generator Workflow](https://postigniter.com/blog/viral-youtube-shorts-titles-50-formulas-and-an-ai-generator-workflow)
+
+## 2026-10-29
+
+ジャンルを問わないショート動画バズ要因を再調査した。フック(冒頭1〜3秒)が離脱率を左右する点は各ソースで一致しており、「未解決の疑問を残すオープンループ」や「いきなり本編に入る」演出が有効とされる。アルゴリズムは再生数より完視聴率・リプレイ・保存・シェアを重視する傾向が強まっており、特に15秒未満の動画は65%以上、理想は80%以上の完視聴率が目安という指摘もあった。字幕(キャプション)を付けると最後まで視聴される確率が大きく上がるとの報告も複数見られた。心理学面では、Jonah BergerのSTEPPS理論(社会的通貨・トリガー・感情・公衆性・実用性・物語性)がシェア行動の説明枠として広く引用され、禁止・制限が興味を増幅する「カリギュラ効果」もタイトル作成に応用されている。ただし多くはマーケティング系ブログの二次情報で、学術的な検証は限定的なため、数値は目安として扱うべき。
+
+参考情報源:
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts](https://tlinky.com/3-second-hook/)
+- [10 Proven Strategies to Succeed with Short-Form Video Content in 2026](https://rightblogger.com/blog/short-form-video-tips)
+- [The 3-Second Rule for Video Hooks: How to Stop the Scroll in 2026](https://joyspace.ai/the-3-second-rule-science-stopping-scroll)
+- [Short-Form Video Statistics: TikTok, Reels, and Shorts by the Numbers in 2026](https://www.kapwing.com/resources/short-form-video-statistics-tiktok-reels-and-shorts-by-the-numbers-in-2026/)
+- [youtube shorts retention rate benchmarks](https://www.gofaceless.ai/en/blog/youtube-shorts-retention-rate-benchmarks)
+- [The science and psychology of why videos go viral](https://thenextweb.com/news/the-science-and-psychology-of-why-videos-go-viral)
