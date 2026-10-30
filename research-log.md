@@ -540,3 +540,16 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [Short-Form Video Statistics: TikTok, Reels, and Shorts by the Numbers in 2026](https://www.kapwing.com/resources/short-form-video-statistics-tiktok-reels-and-shorts-by-the-numbers-in-2026/)
 - [youtube shorts retention rate benchmarks](https://www.gofaceless.ai/en/blog/youtube-shorts-retention-rate-benchmarks)
 - [The science and psychology of why videos go viral](https://thenextweb.com/news/the-science-and-psychology-of-why-videos-go-viral)
+
+## 2026-10-30
+
+ジャンル横断でショート動画のバズ要因を再調査。アルゴリズム面では「いいね」よりシェア・保存・リプレイが上位の評価信号とされ、Instagramは送信(DM共有)率を重視、完視聴率70%超えでおすすめ表示される確率が上がるとの報告があった。フック設計はプラットフォームごとに許容時間が異なり、Reelsは1秒前後、TikTokは1.5秒前後、Shortsは2秒前後とシビアで、冒頭に広告的な作り込みを感じさせると離脱が早まるため「素人っぽい」入り方が有利との指摘も。心理学面では、George Loewensteinの情報ギャップ理論(カリオシティ・ギャップ)が完視聴を促す基盤として引用され、シェア行動は「動画の質」ではなく「シェアした自分がどう見えるか」という社会的アイデンティティに強く依存するという分析が複数見られた。ただし具体的な数値の多くはマーケティングブログ由来で一次資料の裏付けは乏しく、参考値として扱うべき。
+
+参考情報源:
+- [8 Things All Viral TikToks Do in the First 3 Seconds (2026)](https://www.opus.pro/blog/viral-tiktoks-first-3-seconds-2026)
+- [Why Your Reels Aren't Going Viral: The Hook Framework That Actually Works](https://postiz.com/blog/why-your-reels-arent-going-viral-hook-framework)
+- [Viral Hooks That Convert](https://ugccopilot.ai/blog/viral-hooks-that-convert/)
+- [The Science Behind "What Happens Next?"](https://virlo.ai/blog/the-science-behind-what-happens-next)
+- [What Makes a Video Go Viral? The Hidden Psychology Behind High-Performing Shorts](https://www.bytecap.io/blog/what-makes-a-video-go-viral-psychology-behind-high-performing-shorts)
+- [How the Instagram Algorithm Works in 2026](https://www.eclincher.com/articles/how-the-instagram-algorithm-works-in-2026)
+- [Instagram Reels Algorithm 2026: How to Get More Reach](https://www.go-viral.app/blog/instagram-reels-algorithm-2026/)
