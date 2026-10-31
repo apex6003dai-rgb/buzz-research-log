@@ -553,3 +553,15 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [What Makes a Video Go Viral? The Hidden Psychology Behind High-Performing Shorts](https://www.bytecap.io/blog/what-makes-a-video-go-viral-psychology-behind-high-performing-shorts)
 - [How the Instagram Algorithm Works in 2026](https://www.eclincher.com/articles/how-the-instagram-algorithm-works-in-2026)
 - [Instagram Reels Algorithm 2026: How to Get More Reach](https://www.go-viral.app/blog/instagram-reels-algorithm-2026/)
+
+## 2026-10-31
+
+ジャンルを問わないショート動画バズ要因を再調査した。フック(視聴継続か離脱かを決める冒頭)の許容時間はソース間で1〜3秒とばらつくが、「最初の数秒で感情喚起・好奇心創出・強い視覚で引きつける」という設計方針は一致している。プラットフォーム差として、TikTokは勢いのある速い入り、YouTube Shortsはやや文脈説明を許容、Instagram Reelsは視覚的に目を引く第一フレームが有利との指摘があった。アルゴリズム面では、両プラットフォームとも「視聴時間」と「完視聴率」が最上位信号という点は共通するが、具体的な重み付けは非公開で、二次情報は推測の域を出ない。ある推測では2026年のTikTokは広範囲表示の完視聴率しきい値が約70%(2024年の約50%から上昇)とされるが単一ベンダーの推計に過ぎない。シェアはTikTokで「リプレイ・完視聴・シェア」が重視信号、Instagramは「シェア優先」との分析もあった。長さの目安もShorts30〜45秒・TikTok45〜90秒など割れており、数値は仮説として扱うべき。
+
+参考情報源:
+- [Why the First Few Seconds Matter](https://virlo.ai/blog/why-the-first-few-seconds-matter)
+- [12 Viral Hook Formulas for Shorts and TikTok That Actually Work](https://www.clipspeed.ai/blog/viral-hook-formulas-shorts-tiktok.html)
+- [TikTok Hooks vs Instagram Hooks: What Actually Works in 2026](https://viral.app/en/blog/insights/tiktok-hooks-vs-instagram-hooks)
+- [How to Write Hooks That Stop the Scroll (2026 Guide)](https://eliro.pro/blog/short-form-video-hooks-script-guide-2026)
+- [TikTok Algorithm Guide 2026: Everything We Know About How Videos Are Ranked](https://www.darkroomagency.com/observatory/tiktok-algorithm-guide-2026-everything-we-know-about-how-videos-are-ranked)
+- [The YouTube Shorts Algorithm: Your 2026 Guide](https://quso.ai/blog/youtube-shorts-algorithm)
