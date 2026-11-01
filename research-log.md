@@ -565,3 +565,15 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [How to Write Hooks That Stop the Scroll (2026 Guide)](https://eliro.pro/blog/short-form-video-hooks-script-guide-2026)
 - [TikTok Algorithm Guide 2026: Everything We Know About How Videos Are Ranked](https://www.darkroomagency.com/observatory/tiktok-algorithm-guide-2026-everything-we-know-about-how-videos-are-ranked)
 - [The YouTube Shorts Algorithm: Your 2026 Guide](https://quso.ai/blog/youtube-shorts-algorithm)
+
+## 2026-11-01
+
+ジャンルを問わないショート動画バズ要因を再調査した。フックの許容時間はソース間で1.3〜3秒とばらつき、信頼できる一次研究の出典は乏しいが、「数秒で視聴継続か離脱かが決まる」という方向性自体は各記事で一致していた。構成面では、矛盾の提示・具体的な悩みへの言及・結果を先に見せる手法などが挙げられ、終盤を冒頭に繋げる「ループ構造」がリプレイ率を高めるとされる。アルゴリズム面では、再生数や「いいね」よりも完視聴率・リプレイ率・シェア・保存が重視される傾向が複数ソースで共通していたが、どの信号が最上位かは記事間で一致せず(リプレイ率を一位とする説、完視聴率を一位とする説など)、具体的な重み付けは非公開のため推測の域を出ない。キャプションは分類(カテゴリ判定)目的のシグナルとされ、冒頭50文字が検索で重視されるとの説もあるが単一ソース由来で未確認。全体として、数値や断定的な法則の多くはマーケティングブログの二次情報であり、学術的裏付けは限定的なため、参考値として扱うべきである。
+
+参考情報源:
+- [short video viral guide](https://bloomeria.jp/blog/short-video-viral-guide)
+- [Video Hook Retention Statistics (2026)](https://blog.mean.ceo/?p=11560)
+- [Short-Video Discovery Logic in 2026: How AI-Edited Short Videos Get Discovered](https://www.capcut.com/create/short-video-discovery-2026-ai-editing)
+- [The Perfect YouTube Short: Ideal Length, Structure & Hooks](https://subscribr.ai/youtube-strategy/perfect-youtube-short-length-structure-hooks)
+- [TikTok Algorithm Guide 2026: Everything We Know About How Videos Are Ranked](https://www.darkroomagency.com/observatory/tiktok-algorithm-guide-2026-everything-we-know-about-how-videos-are-ranked)
+- [How the TikTok Algorithm Works in 2026: What Makes Videos Go Viral](https://joyspace.ai/cracking-tiktok-algorithm-virality-calculation)
