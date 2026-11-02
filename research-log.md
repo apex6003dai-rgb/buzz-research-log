@@ -577,3 +577,15 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [The Perfect YouTube Short: Ideal Length, Structure & Hooks](https://subscribr.ai/youtube-strategy/perfect-youtube-short-length-structure-hooks)
 - [TikTok Algorithm Guide 2026: Everything We Know About How Videos Are Ranked](https://www.darkroomagency.com/observatory/tiktok-algorithm-guide-2026-everything-we-know-about-how-videos-are-ranked)
 - [How the TikTok Algorithm Works in 2026: What Makes Videos Go Viral](https://joyspace.ai/cracking-tiktok-algorithm-virality-calculation)
+
+## 2026-11-02
+
+ジャンルを問わないショート動画バズ要因を再調査した。フックは冒頭1〜3秒以内に視聴継続か離脱かが決まるとする記述が複数あり、感覚的な刺激(動きのある映像・大きな文字・音)と「未解決の好奇心(オープンループ)」を組み合わせる設計が有効とされる。構成面では「結論・結果を先に見せてから説明する」逆順構成や、2〜4秒ごとに展開を変えるテンポ設計が勧められていた。アルゴリズム面では、再生数や「いいね」より完視聴率・リプレイ率・シェア・保存が重視されるという傾向は共通していたが、YouTube Shortsは一定の視聴者層に試験配信し、冒頭の維持率が低いと拡散を止めるという説明は単一ベンダー由来で未確認。TikTokは15〜60秒、特に21〜34秒が高エンゲージとの記載もあるが根拠は薄い。総じて断定的な数値はマーケティングブログの二次情報が中心であり、学術的裏付けは限定的なため参考値として扱うべきである。
+
+参考情報源:
+- [YouTube Shorts Hook Formulas That Drive 3-Second Holds](https://www.opus.pro/blog/youtube-shorts-hook-formulas)
+- [Why the First Few Seconds Matter](https://virlo.ai/blog/why-the-first-few-seconds-matter)
+- [The Ideal YouTube Shorts Length & Format for Retention (Data-Backed)](https://opus.pro/blog/ideal-youtube-shorts-length-format-retention)
+- [How to Write Hooks That Stop the Scroll (2026 Guide)](https://eliro.pro/blog/short-form-video-hooks-script-guide-2026)
+- [short video viral guide](https://bloomeria.jp/blog/short-video-viral-guide)
+- [How To Master Video Retention (So You Can Dominate Social Media Algorithms)](https://adamconnell.me/improve-video-retention-social-media/)
