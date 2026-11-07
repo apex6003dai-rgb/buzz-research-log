@@ -589,3 +589,16 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [How to Write Hooks That Stop the Scroll (2026 Guide)](https://eliro.pro/blog/short-form-video-hooks-script-guide-2026)
 - [short video viral guide](https://bloomeria.jp/blog/short-video-viral-guide)
 - [How To Master Video Retention (So You Can Dominate Social Media Algorithms)](https://adamconnell.me/improve-video-retention-social-media/)
+
+## 2026-11-07
+
+ジャンルを問わないショート動画バズ要因を再調査した。フック(冒頭1〜3秒)は各ソースで一致して最重要視されており、結論や結果を先に見せる逆順構成、答えを引き延ばす「オープンループ」、数字を使った具体的な問いかけが有効なパターンとして繰り返し紹介されていた。アルゴリズム面では、再生数や「いいね」よりも完視聴率・リプレイ率・シェア・保存を重視する傾向が複数ソースで共通していたが、どの信号が最上位かは記事間で一致しなかった。キャプションは内容分類の検索シグナルとして機能し、冒頭の文言が特に重要との指摘もあった。心理学面では、シェア行動が動画の質そのものよりも「シェアすることで自分がどう見られるか」という社会的アイデンティティに強く依存するという分析が複数見られた。ただし数値やアルゴリズムの重み付けの多くはマーケティングブログ由来の二次情報で、学術的裏付けは限定的なため参考値として扱うべきである。
+
+参考情報源:
+- [10 Short-Form Video Content Strategies That Work in 2026](https://rightblogger.com/blog/short-form-video-tips)
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts](https://tlinky.com/3-second-hook/)
+- [Hook Engineering: The Science of the First 3 Seconds in Short-Form Video (2026)](https://dev.to/bulkdl/hook-engineering-the-science-of-the-first-3-seconds-in-short-form-video-2026-2jp9)
+- [How to Write Hooks That Stop the Scroll (2026 Guide)](https://eliro.pro/blog/short-form-video-hooks-script-guide-2026)
+- [How Does YouTube Shorts Algorithm Work in 2025?](https://www.shortimize.com/blog/how-does-youtube-shorts-algorithm-work)
+- [How the YouTube Shorts Algorithm REALLY Works in 2025](https://subscribr.ai/youtube-strategy/youtube-shorts-algorithm-explained)
+- [compare watch time tiktok vs reels vs shorts](https://www.shortimize.com/blog/compare-watch-time-tiktok-vs-reels-vs-shorts)
