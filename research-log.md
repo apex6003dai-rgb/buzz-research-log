@@ -602,3 +602,16 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [How Does YouTube Shorts Algorithm Work in 2025?](https://www.shortimize.com/blog/how-does-youtube-shorts-algorithm-work)
 - [How the YouTube Shorts Algorithm REALLY Works in 2025](https://subscribr.ai/youtube-strategy/youtube-shorts-algorithm-explained)
 - [compare watch time tiktok vs reels vs shorts](https://www.shortimize.com/blog/compare-watch-time-tiktok-vs-reels-vs-shorts)
+
+## 2026-11-08
+
+ジャンルを問わないショート動画バズ要因を再調査した。フック(冒頭1〜2秒)の重要性は各ソースで一致しており、Reels約1秒・TikTok約1.5秒・Shorts約2秒というプラットフォーム別の目安を示す記事もあったが単一ベンダー由来で未確認。有効な手法として、結論を先に見せる逆順構成、答えを引き延ばす「オープンループ」、同じ動画で複数のフックを作って比較検証する手法が挙げられていた。キャプション面では、フィードで表示される先頭数十文字(目安60文字前後)が実質的な「テキストフック」として機能し、画面内テキストは音声内容の繰り返しではなく補足情報を加えるべきとの指摘があった。心理学面では、強い感情を喚起する動画はシェアされる可能性が高まるとされ、冒頭で視聴者自身の悩み・痛みを言語化する「痛みの受容」導入も有効とされたが、具体的な倍率等の根拠は未確認。アルゴリズムの重み付けやリテンション閾値(70%超など)は依然としてマーケティングブログ由来の二次情報が中心で、学術的・公式な裏付けは乏しいため参考値として扱うべきである。
+
+参考情報源:
+- [Hook Engineering: The Science of the First 3 Seconds in Short-Form Video (2026)](https://dev.to/bulkdl/hook-engineering-the-science-of-the-first-3-seconds-in-short-form-video-2026-2jp9)
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts](https://tlinky.com/3-second-hook/)
+- [The Psychology Behind Viral Short-Form Video: 5 Cognitive Triggers](https://dev.to/chisha_d5ceeffee4e27/the-psychology-behind-viral-short-form-video-5-cognitive-triggers-1jei)
+- [6 Emotional Triggers That Unlock Massive YouTube Views](https://vidiq.com/blog/post/emotional-triggers-unlock-youtube-views)
+- [Writing Text Hooks](https://community.skeepers.io/blog/writing-text-hooks/)
+- [How to Write Viral TikTok Captions with AI: 2026 Playbook](https://dev.to/raxxostudios/how-to-write-viral-tiktok-captions-with-ai-2026-playbook-fhm)
+- [How Caption Strategy Can Triple Your Video Views](https://www.pulse.bot/digital-marketing/news/how-caption-strategy-can-triple-your-video-views-94b51151-1219-461d-8853-e695dd6548e6)
