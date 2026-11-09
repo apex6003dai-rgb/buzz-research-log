@@ -615,3 +615,15 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [Writing Text Hooks](https://community.skeepers.io/blog/writing-text-hooks/)
 - [How to Write Viral TikTok Captions with AI: 2026 Playbook](https://dev.to/raxxostudios/how-to-write-viral-tiktok-captions-with-ai-2026-playbook-fhm)
 - [How Caption Strategy Can Triple Your Video Views](https://www.pulse.bot/digital-marketing/news/how-caption-strategy-can-triple-your-video-views-94b51151-1219-461d-8853-e695dd6548e6)
+
+## 2026-11-09
+
+ジャンルを問わないショート動画バズ要因を再調査した。構成面では、冒頭フック(目安3秒)・本編・CTAという時間配分の一例(30秒動画でフック3秒/本編22秒/CTA5秒)が紹介されており、自己紹介から入らず結論や悩み・意外性から始めて「続きを見る理由」を提示する構成が勧められていた。視聴維持率を上げる手法として「ジェットコースター構成」や、ループ再生を前提に冒頭と結末をつなげる設計がアルゴリズム上有利とされていたが、具体的な展開方法の根拠は薄い。アルゴリズム面では、Instagramは複数ソースでシェア→視聴時間/完視聴率→いいねの順に重視し、フォロワー外へのリーチにはDM転送がいいねより重要との指摘があった。他プラットフォームからの透かし入り再利用動画は評価を下げられるとの報告も見られた。TikTokも完視聴率・リプレイ率を最重視との説明が多いが、「視聴時間が評価の40〜50%」といった具体的割合は単一ソースで未検証。総じて各社の公式な重み付けは非公開で、数値は検証困難なマーケティングブログ由来のものが多く参考値にとどめるべきである。
+
+参考情報源:
+- [ショート動画制作とは|スクロールを止める縦型動画の完全ガイド【2026年版】](https://tatap.jp/knowledge/short-video-production/)
+- [2026年に伸びるショート動画の8つの共通点](https://pamxy.co.jp/marke-driven/?p=16789)
+- [ショート動画の企画フレーム](https://0120.co.jp/blog/video-103/)
+- [The 2026 Instagram Reels Algorithm Decoded: What Actually Decides Reach Now](https://virlo.ai/blog/instagram-reels-algorithm-2026-decoded)
+- [Instagram Reels Algorithm 2026: What Changed and How to Work with It](https://www.socialpilot.co/de/blog/instagram-reels-algorithm)
+- [TikTok Algorithm 2026: Why Shares and Saves Matter More Than Likes](https://dev.to/stklen/tiktok-algorithm-2026-why-shares-and-saves-matter-more-than-likes-2gb4)
