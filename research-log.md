@@ -627,3 +627,16 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [The 2026 Instagram Reels Algorithm Decoded: What Actually Decides Reach Now](https://virlo.ai/blog/instagram-reels-algorithm-2026-decoded)
 - [Instagram Reels Algorithm 2026: What Changed and How to Work with It](https://www.socialpilot.co/de/blog/instagram-reels-algorithm)
 - [TikTok Algorithm 2026: Why Shares and Saves Matter More Than Likes](https://dev.to/stklen/tiktok-algorithm-2026-why-shares-and-saves-matter-more-than-likes-2gb4)
+
+## 2026-11-14
+
+ジャンルを問わないショート動画バズ要因を再調査した。冒頭1.5〜3秒で視聴者の継続判断がなされる点は各ソースで一致し、好奇心ギャップ・結論先出し・逆順構成・対立や意外性からの導入が有効なフック型として繰り返し紹介されていた。YouTube Shortsの視聴者はTikTokより情報探索的な意図で訪れる傾向があり、POVや告白型フックの効果がやや落ちるとの指摘もあった。アルゴリズム面では完視聴率・リプレイ・シェア・保存が「いいね」より重視される傾向が共通し、2024年比で完視聴率の基準値が上昇しているとする分析もあったが数値は未検証。心理学面では、シェア行動は動画の質そのものより「シェアすることで自分がどう見られるか」という社会的アイデンティティに強く依存するとの分析が複数見られた。CTAは複数提示より単一に絞る方が実行率が上がるとの指摘もあった。多くはマーケティングブログ由来の二次情報で学術的裏付けは限定的なため、参考値として扱うべきである。
+
+参考情報源:
+- [Hook Engineering: The Science of the First 3 Seconds in Short-Form Video (2026)](https://dev.to/bulkdl/hook-engineering-the-science-of-the-first-3-seconds-in-short-form-video-2026-2jp9)
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts](https://tlinky.com/3-second-hook/)
+- [8 Things All Viral TikToks Do in the First 3 Seconds (2026)](https://www.opus.pro/blog/viral-tiktoks-first-3-seconds-2026)
+- [Retention as New PageRank: TikTok's 2026 Mathematics of Viral SEO](https://webscraft.org/blog/retention-tse-noviy-pagerank-povedinkove-seo-ta-matematika-populyarnosti-tiktok-u-2026?lang=en)
+- [What Content Creators Need to Know About TikTok's New Algorithm in 2026](https://www.opus.pro/blog/tiktoks-new-algorithm-2026)
+- [Reverse-Engineering the YouTube Shorts Algorithm in 2026](https://dev.to/kyle_clipspeedai/reverse-engineering-the-youtube-shorts-algorithm-in-2026-signals-ml-and-what-actually-moves-the-ep6)
+- [TikTok Script Guide](https://www.nemovideo.com/ja-JP/blog/tiktok-script-guide)
