@@ -640,3 +640,16 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [What Content Creators Need to Know About TikTok's New Algorithm in 2026](https://www.opus.pro/blog/tiktoks-new-algorithm-2026)
 - [Reverse-Engineering the YouTube Shorts Algorithm in 2026](https://dev.to/kyle_clipspeedai/reverse-engineering-the-youtube-shorts-algorithm-in-2026-signals-ml-and-what-actually-moves-the-ep6)
 - [TikTok Script Guide](https://www.nemovideo.com/ja-JP/blog/tiktok-script-guide)
+
+## 2026-11-15
+
+ジャンルを問わないショート動画バズ要因を再調査した。構成・心理面では、冒頭フックの勝負は1.5〜3秒以内で決まるとする分析が多く、TikTokは約1.7秒、Reelsは1.4秒、Shortsは2〜2.3秒と視聴継続判断のタイミングがプラットフォームごとに微妙に異なるとの報告があった。パターンインタラプト(3〜5秒ごとの展開・カット変化)が離脱を防ぐ手法として紹介され、単なる演出でなく新情報や対比を伴うべきとされていた。音声なし視聴がTikTokで約68%、Reelsで約54%との推計もあり(未検証)、冒頭でのテロップ表示の重要性が強調されていた。タイトル/キャプション面では具体例は少なかったが、問いかけ型・共感型の仕掛けでコメントを誘発する手法や、検索流入を狙うキーワード最適化が有効とされていた。シェア行動は「シェアすることで自分がどう見られるか」という社会的アイデンティティに強く依存するとの指摘は前回に続き複数ソースで一致。全体として数値的根拠の多くは未検証のマーケティングブログ由来であり、参考値として扱うべき。
+
+参考情報源:
+- [Hook Engineering: The Science of the First 3 Seconds in Short-Form Video (2026)](https://dev.to/bulkdl/hook-engineering-the-science-of-the-first-3-seconds-in-short-form-video-2026-2jp9)
+- [The Anatomy of a Viral TikTok in 2026: What 13.5M Clips Reveal](https://www.opus.pro/blog/anatomy-of-a-viral-tiktok-2026)
+- [The 3-Second Rule for Video Hooks: How to Stop the Scroll in 2026](https://joyspace.ai/the-3-second-rule-science-stopping-scroll)
+- [How to Use Pattern Interrupts to Keep Viewers Watching (2026 Guide)](https://joyspace.ai/pattern-interrupt-reset-attention-span)
+- [Why We Can't Stop Watching Videos: The Dopamine Loop Explained](https://joyspace.ai/dopamine-loops-why-we-cant-stop-watching)
+- [TikTokでバズる動画の作り方2026年版|TikTok 動画 作り方の基本](https://www.capcut.com/ja-jp/resource/how-to-make-viral-tiktok-videos-2026)
+- [2026年に伸びるショート動画の8つの共通点](https://pamxy.co.jp/marke-driven/?p=16789)
