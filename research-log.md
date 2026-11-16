@@ -653,3 +653,16 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [Why We Can't Stop Watching Videos: The Dopamine Loop Explained](https://joyspace.ai/dopamine-loops-why-we-cant-stop-watching)
 - [TikTokでバズる動画の作り方2026年版|TikTok 動画 作り方の基本](https://www.capcut.com/ja-jp/resource/how-to-make-viral-tiktok-videos-2026)
 - [2026年に伸びるショート動画の8つの共通点](https://pamxy.co.jp/marke-driven/?p=16789)
+
+## 2026-11-16
+
+ジャンルを問わないショート動画バズ要因を再調査した。冒頭の視聴継続判断ライン(いわゆる3秒ルール)は出典ごとに数値が割れており、「3秒時点で70%維持」「80〜90%維持」「50%離脱は致命的」という説が併存し、プラットフォーム差(TikTok約2〜3秒、Shortsは2秒程度で判断)も報告されるが、いずれも検証可能な一次資料は確認できなかった。構成面では「フック(違和感・結論の提示)→展開(2〜8秒で理由・過程を見せる)→回収(満足感・驚き・保存要素)」という三段構成が有効とされた。心理面では、未解決の問いを維持する「好奇心ギャップ」が視聴維持の核とされ、シェアは強い感情(喜び・驚きまたは怒り)、または「自分の人生を代弁してくれている」という共感が主な動機とされた。なおYouTubeは2025年3月末以降、視聴時間の下限なしで再生開始やループもビュー計上する仕様変更があり、2026年8月24日にも集計方法の変更が予定されるため過去データとの比較は注意が必要。数値の多くはツール系ブログ由来で学術的検証は乏しく、参考値として扱うべき。
+
+参考情報源:
+- [Hook Engineering: The Science of the First 3 Seconds in Short-Form Video (2026)](https://dev.to/bulkdl/hook-engineering-the-science-of-the-first-3-seconds-in-short-form-video-2026-2jp9)
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts](https://tlinky.com/3-second-hook/)
+- [YouTube Shorts Best Practices (2026): 10 Proven Tips for Maximum Views](https://joinbrands.com/blog/youtube-shorts-best-practices/)
+- [YouTube Shorts Hooks and Curiosity Loops That Explode Your Views](https://www.socialmediaexaminer.com/youtube-shorts-hooks-and-curiosity-loops-that-explode-your-views/)
+- [Why We Can't Stop Watching Videos: The Dopamine Loop Explained](https://joyspace.ai/dopamine-loops-why-we-cant-stop-watching)
+- [Short-Form Content Performance and Virality Metrics: The Complete 2026 Guide](https://influenceflow.io/resources/short-form-content-performance-and-virality-metrics-the-complete-2026-guide)
+- [TikTokでバズる動画の作り方2026年版|TikTok 動画 作り方の基本](https://www.capcut.com/ja-jp/resource/how-to-make-viral-tiktok-videos-2026)
