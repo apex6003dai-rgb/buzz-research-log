@@ -666,3 +666,16 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [Why We Can't Stop Watching Videos: The Dopamine Loop Explained](https://joyspace.ai/dopamine-loops-why-we-cant-stop-watching)
 - [Short-Form Content Performance and Virality Metrics: The Complete 2026 Guide](https://influenceflow.io/resources/short-form-content-performance-and-virality-metrics-the-complete-2026-guide)
 - [TikTokでバズる動画の作り方2026年版|TikTok 動画 作り方の基本](https://www.capcut.com/ja-jp/resource/how-to-make-viral-tiktok-videos-2026)
+
+## 2026-11-17
+
+ジャンルを問わないショート動画バズ要因を再調査した。アルゴリズム面では、完視聴率・平均視聴時間を重視する傾向が続き、TikTokのFor You Page配信に必要な完視聴率が「2024年頃の約50%から2026年には約70%相当に上昇した」との推計があったが単一ソースで未検証。シェアは「最も意図の強い行動」として各社で高く評価される一方、長さそのものよりも視聴維持率(%)が重視され、60秒で視聴維持率80%の動画が15秒で95%の動画を上回る例もあるとされた。投稿直後30〜60分の初動指標で配信範囲が決まるとの指摘も複数見られた。タイトル/キャプション面では、3,357本のYouTube動画を分析した調査で「好奇心ギャップ型タイトルが安定して再生数を伸ばすとは言えない」との結果が出ており、通説と異なる点が注目される。良いギャップは「話題そのもの」ではなく「答え」を隠すべきとされ、90文字超のタイトルは一貫して再生に不利との分析もあった。日本語ソースでは、開始0.5秒での「超冒頭インパクト」、情報を個人の感想に変換して「驚き」「自分ごと化」を生む手法、流行への便乗だけでは継続視聴を得られないという指摘が紹介されていた。総じて「バズを保証する法則はない」という立場が共通しており、数値は参考値として扱うべきである。
+
+参考情報源:
+- [the 30 second rule: what goes viral, decided by algorithms](https://www.bizcommunity.com/article/the-30-second-rule-what-goes-viral-decided-by-algorithms-172566a)
+- [The YouTube Shorts Algorithm in 2026: What Actually Determines Whether Your Clip Gets Pushed](https://dev.to/kyle_clipspeedai/youtube-shorts-algorithm-in-2026-what-actually-determines-whether-your-clip-gets-pushed-1g3g)
+- [The State of Short-Form Social Media in 2026](https://metricool.com/the-state-of-short-form-social-media/)
+- [How to Write Curiosity Gap Headlines That Get More Clicks in 2026](https://joyspace.ai/curiosity-gap-headlines-impossible-ignore)
+- [How to write YouTube titles that get views: a data study [2026]](https://air.io/en/audience-growth/how-to-write-a-youtube-title-that-gets-clicked-research-across-11-niches)
+- [「バズる」ショート動画の条件 TikTok時代の勝者たちが明かした「3つの要素」とは](https://www.advertimes.com/20250801/article507293/)
+- [2026年に伸びるショート動画の8つの共通点](https://pamxy.co.jp/marke-driven/?p=16789)
