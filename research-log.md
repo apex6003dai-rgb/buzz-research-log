@@ -679,3 +679,16 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [How to write YouTube titles that get views: a data study [2026]](https://air.io/en/audience-growth/how-to-write-a-youtube-title-that-gets-clicked-research-across-11-niches)
 - [「バズる」ショート動画の条件 TikTok時代の勝者たちが明かした「3つの要素」とは](https://www.advertimes.com/20250801/article507293/)
 - [2026年に伸びるショート動画の8つの共通点](https://pamxy.co.jp/marke-driven/?p=16789)
+
+## 2026-11-18
+
+ジャンルを問わないショート動画バズ要因を再調査した。フックは冒頭1〜3秒(TikTok広告指針では6秒以内に訴求、3秒以内に要点)に置くのが通説で、パターン崩し・大胆な主張・問いかけ・好奇心ギャップが定番の型とされる。心理学的には情報ギャップ理論(好奇心は満たしたい「かゆみ」)やツァイガルニク効果が未解決ループへの没入を説明するとされ、1つ目のループを閉じる前に2つ目を開く「ループの積み重ね」が離脱防止に有効と紹介された。シェアは感情的伝染(強い喜び・驚き・共感)と「自分の人生の代弁」が主動機、信頼性は編集の巧さより「本物らしさ」が勝るとの指摘も。キャプション/タイトルはプラットフォームごとに最適化すべきで、YouTube Shortsはタイトルが検索・分類信号として機能し70文字以内が目安、TikTokは口語的でコメントを誘う文体、Instagramは保存を誘う丁寧な説明文が向くとされた。ただし具体的な数値の多くはツール系ブログの自社調査で、学術的な裏付けは乏しく参考値にとどめるべき。
+
+参考情報源:
+- [Hook Engineering: The Science of the First 3 Seconds in Short-Form Video (2026)](https://dev.to/bulkdl/hook-engineering-the-science-of-the-first-3-seconds-in-short-form-video-2026-2jp9)
+- [TikTok Hook Formulas That Drive 3-Second Holds](https://www.opus.pro/blog/tiktok-hook-formulas)
+- [YouTube Shorts Hooks and Curiosity Loops That Explode Your Views](https://www.socialmediaexaminer.com/youtube-shorts-hooks-and-curiosity-loops-that-explode-your-views/)
+- [Why We Can't Stop Watching Videos: The Dopamine Loop Explained](https://joyspace.ai/dopamine-loops-why-we-cant-stop-watching)
+- [The Psychology Behind Why Short Videos Capture Attention So Quickly](https://chimba.ru/blogs/47424/The-Psychology-Behind-Why-Short-Videos-Capture-Attention-So-Quickly)
+- [Creator Corner: YouTube vs Instagram vs TikTok Caption Best Practices](https://www.opus.pro/blog/youtube-vs-instagram-vs-tiktok-caption-best-practices)
+- [How to Write Short-Form Titles that Earn Clicks](https://www.opus.pro/blog/write-short-form-titles-that-earn-clicks)
