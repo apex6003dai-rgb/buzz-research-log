@@ -692,3 +692,15 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [The Psychology Behind Why Short Videos Capture Attention So Quickly](https://chimba.ru/blogs/47424/The-Psychology-Behind-Why-Short-Videos-Capture-Attention-So-Quickly)
 - [Creator Corner: YouTube vs Instagram vs TikTok Caption Best Practices](https://www.opus.pro/blog/youtube-vs-instagram-vs-tiktok-caption-best-practices)
 - [How to Write Short-Form Titles that Earn Clicks](https://www.opus.pro/blog/write-short-form-titles-that-earn-clicks)
+
+## 2026-11-19
+
+ジャンルを問わないショート動画バズ要因を再調査した。フック(冒頭の掴み)については諸説あり、TikTokは最初の1〜3秒で視聴継続を判断するとの見方が多いが、YouTube Shortsは視聴者がやや構えて見るため3〜5秒まで持つとの説と、逆に2秒以内で離脱するとの説が併存し統一見解はない。構成面では「結論・結果を先に見せてから経緯を説明する」型が離脱防止に有効とされ、音声オフでの視聴が多いとの指摘から字幕・テロップで内容が伝わる設計が重要とされた。アルゴリズム面では、再生時間の絶対値より完視聴率(最後まで見られた割合)が優先され、リプレイ(再視聴)は「一度で満足できなかった」強い好意信号として重く扱われるとの説明があった。シェアは拡散力が最大の指標とされる一方、新作はまず小規模な視聴者層でテストされ、反応が良い場合のみ配信範囲が広がる「段階的拡大」の仕組みが各社共通で紹介された。ただし具体的な秒数や重みづけは企業ブログの独自分析が多く、プラットフォーム公式発表ではないため参考値として扱う必要がある。
+
+参考情報源:
+- [Hook Engineering: The Science of the First 3 Seconds in Short-Form Video (2026)](https://dev.to/bulkdl/hook-engineering-the-science-of-the-first-3-seconds-in-short-form-video-2026-2jp9)
+- [YouTube Shorts Hook Formulas That Drive 3-Second Holds](https://www.opus.pro/blog/youtube-shorts-hook-formulas)
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts](https://tlinky.com/3-second-hook/)
+- [How Does YouTube Shorts Algorithm Work in 2025?](https://www.shortimize.com/blog/how-does-youtube-shorts-algorithm-work)
+- [Reverse-Engineering the YouTube Shorts Algorithm in 2026](https://dev.to/kyle_clipspeedai/reverse-engineering-the-youtube-shorts-algorithm-in-2026-signals-ml-and-what-actually-moves-the-ep6)
+- [TikTok Algorithm Explained — How It Decides What Goes Viral](https://ttcalculator.net/guides/growth/tiktok-algorithm-explained/)
