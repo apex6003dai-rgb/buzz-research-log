@@ -704,3 +704,16 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [How Does YouTube Shorts Algorithm Work in 2025?](https://www.shortimize.com/blog/how-does-youtube-shorts-algorithm-work)
 - [Reverse-Engineering the YouTube Shorts Algorithm in 2026](https://dev.to/kyle_clipspeedai/reverse-engineering-the-youtube-shorts-algorithm-in-2026-signals-ml-and-what-actually-moves-the-ep6)
 - [TikTok Algorithm Explained — How It Decides What Goes Viral](https://ttcalculator.net/guides/growth/tiktok-algorithm-explained/)
+
+## 2026-11-20
+
+ジャンルを問わないショート動画バズ要因を再調査した。マーケティング系記事では、TikTokはいいねより保存・シェアを重視する傾向が続くとされ、Sprout Socialの約20億件分析を根拠に、配信判断では完視聴率・リプレイに加え保存・シェアが重視されるとの見方が多い。Instagramでは「送信(DM共有)」がリーチ当たりの最重要指標とされ、Mosseriの説明を引く業界ブログも保存・シェア重視を共通して指摘するが、「いいねの3〜5倍重い」といった具体数値は単一ソースのみで未検証。完視聴率の目安は「2024年頃50%→2026年には約70%」との推計もあるが公式発表ではなく推定値。心理面では、冒頭1.5秒程度の掴みが結果を左右するという実体験ベースの指摘や、視聴者の感情が動いてから初めてシェアボタンを押すという「感情→行動」の流れを重視する論調が多いが、査読済みの心理学研究による検証はほぼ見当たらず、企業ブログの独自分析に依拠している点は引き続き留意が必要。
+
+参考情報源:
+- [TikTok Algorithm 2026: Why Shares and Saves Matter More Than Likes](https://dev.to/stklen/tiktok-algorithm-2026-why-shares-and-saves-matter-more-than-likes-2gb4)
+- [The 2026 Instagram Reels Algorithm Decoded: What Actually Decides Reach Now](https://virlo.ai/blog/instagram-reels-algorithm-2026-decoded)
+- [Instagram Reels Algorithm 2026: What Changed and How to Work with It](https://www.socialpilot.co/de/blog/instagram-reels-algorithm)
+- [Social media algorithm changes 2026](https://posteverywhere.ai/blog/social-media-algorithm-changes-2026)
+- [short form content marketing (Smart Share Lab)](https://www.ownly.jp/sslab/short-form-content-marketing)
+- [how to go viral on TikTok](https://www.nemovideo.com/ja-JP/blog/social-media-video/how-to-go-viral-on-tiktok)
+- [2026年に伸びるショート動画の8つの共通点](https://pamxy.co.jp/marke-driven/?p=16789)
