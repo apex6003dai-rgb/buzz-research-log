@@ -717,3 +717,16 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [short form content marketing (Smart Share Lab)](https://www.ownly.jp/sslab/short-form-content-marketing)
 - [how to go viral on TikTok](https://www.nemovideo.com/ja-JP/blog/social-media-video/how-to-go-viral-on-tiktok)
 - [2026年に伸びるショート動画の8つの共通点](https://pamxy.co.jp/marke-driven/?p=16789)
+
+## 2026-11-21
+
+ジャンルを問わないショート動画バズ要因を再調査した。フック設計では「冒頭1秒で動画の内容と続きを見る理由を同時に提示し、情報を詰め込みすぎない」という一画面一情報の原則が複数の解説で共通して挙げられた。心理学的要素としてはパターン・インタラプト(予想を裏切る刺激)が中心だが、プラットフォーム差も指摘され、TikTokは視覚的な衝撃、Instagram Reelsは共感できる悩み、YouTube Shortsは好奇心ギャップや大胆な主張が効きやすいとされる。アルゴリズム面では、早期(3秒以内)の高い継続視聴率が「質の高いコンテンツ」の信号として配信拡大のトリガーになるという説明が多い一方、「視聴数の84%は3秒時点の残存率で予測できる」といった具体的数値は裏付けソースがなく未検証。実践面では、最も強いペイロード(見せ場)を冒頭に出す、字幕と話し言葉の内容を一致させる、炎上的な断定表現は否定コメントを誘発しエンゲージメントの質を下げる恐れがある、といった注意点が紹介された。いずれも企業ブログ中心の分析で、プラットフォーム公式発表や学術研究による検証は乏しい点は留意が必要。
+
+参考情報源:
+- [TikTokでバズる動画の作り方2026年版](https://www.capcut.com/ja-jp/resource/how-to-make-viral-tiktok-videos-2026)
+- [Hook Engineering: The Science of the First 3 Seconds in Short-Form Video (2026)](https://dev.to/bulkdl/hook-engineering-the-science-of-the-first-3-seconds-in-short-form-video-2026-2jp9)
+- [Short-Form Video Algorithm Changes in 2026: What AI Video Creators Need to Know](https://www.capcut.com/create/short-form-video-algorithm-changes-2026)
+- [Short-Form Video Viral Hook Patterns: First-Three-Second Techniques](https://www.capcut.com/create/short-form-video-hooks-first-3-second-patterns)
+- [How to Use Hooks to Drive Engagement on Your Videos](https://www.entrepreneur.com/science-technology/how-these-smart-hook-strategies-can-improve-your-video/502929)
+- [YouTube Shorts Best Practices (2026): 10 Proven Tips for Maximum Views](https://joinbrands.com/blog/youtube-shorts-best-practices/)
+- [How To Master Video Retention (So You Can Dominate Social Media Algorithms)](https://adamconnell.me/improve-video-retention-social-media/)
