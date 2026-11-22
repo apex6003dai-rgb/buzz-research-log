@@ -730,3 +730,16 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [How to Use Hooks to Drive Engagement on Your Videos](https://www.entrepreneur.com/science-technology/how-these-smart-hook-strategies-can-improve-your-video/502929)
 - [YouTube Shorts Best Practices (2026): 10 Proven Tips for Maximum Views](https://joinbrands.com/blog/youtube-shorts-best-practices/)
 - [How To Master Video Retention (So You Can Dominate Social Media Algorithms)](https://adamconnell.me/improve-video-retention-social-media/)
+
+## 2026-11-22
+
+ジャンルを問わないショート動画バズ要因を再調査した。拡散(シェア)の心理については、視聴者の心理を「スクロールを止める→感情を動かす→シェアボタンを押させる」という3段階で説明する論調が多く、感情体験の共有が脳活動を同期させ結びつきを強める神経科学的機序を挙げる記事もあったが出典は示されていない。シェアされやすいコンテンツは「自分がどう見られたいか」を反映するという指摘もあるが根拠は薄弱。アルゴリズム面では、完視聴率・平均視聴時間・リプレイ(ループ再生)が再生数より重視される傾向が続くとされ、TikTokでは11〜18秒程度がシェアされやすい長さとの推計もあるが一次ソースは未確認。学術的には2026年のInternational Journal of Communication掲載論文がプラットフォーム横断でショート動画を定義する枠組みを提案しているが、拡散の心理機序を実証したものではなく、査読済み研究による裏付けは依然として乏しい。
+
+参考情報源:
+- [what makes a video go viral](https://www.veo3ai.io/ja/blog/what-makes-a-video-go-viral)
+- [The Psychology of Short-Form Content: Why We Love Bite-Sized Videos](https://blog.hubspot.com/marketing/short-form-video-psychology)
+- [Short Form Video Content (Clutch consumer survey)](https://clutch.co/resources/short-form-video-content)
+- [Short Video Format as Ubiquitous Artifact (International Journal of Communication, 2026)](https://ijoc.org/index.php/ijoc/article/download/25524/5256/107082?inline=1)
+- [The 30 Second Rule: What Goes Viral, Decided by Algorithms](https://www.bizcommunity.com/article/the-30-second-rule-what-goes-viral-decided-by-algorithms-172566a)
+- [The Psychology Behind Viral Short-Form Video: 5 Cognitive Triggers](https://dev.to/chisha_d5ceeffee4e27/the-psychology-behind-viral-short-form-video-5-cognitive-triggers-1jei)
+- [The Science of Attention: Creating Short-Form Videos People Won't Skip](https://www.socialmediaexaminer.com/the-science-of-attention-creating-short-form-videos-people-wont-skip/)
