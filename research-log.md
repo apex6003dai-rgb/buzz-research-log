@@ -743,3 +743,16 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [The 30 Second Rule: What Goes Viral, Decided by Algorithms](https://www.bizcommunity.com/article/the-30-second-rule-what-goes-viral-decided-by-algorithms-172566a)
 - [The Psychology Behind Viral Short-Form Video: 5 Cognitive Triggers](https://dev.to/chisha_d5ceeffee4e27/the-psychology-behind-viral-short-form-video-5-cognitive-triggers-1jei)
 - [The Science of Attention: Creating Short-Form Videos People Won't Skip](https://www.socialmediaexaminer.com/the-science-of-attention-creating-short-form-videos-people-wont-skip/)
+
+## 2026-11-23
+
+ジャンル横断でショート動画バズの方法論を再調査した。フックについては、冒頭3秒以内に結論・結果・ギャップを提示する「期待の裏切り」型が多くのクリエイター向けガイドで推奨されており、音なし視聴者向けに最初のフレームからテキストを表示する工夫も共通して挙げられるが、具体的な数値(視聴判断0.3〜1.7秒など)は出典が弱く業界経験則に留まる。アルゴリズム面では完視聴率・平均視聴時間・リプレイ数が単純な再生数より重視される傾向が続くとされ、スワイプ離脱率を初期シグナルとして使うという説明も見られたが、プラットフォーム公式の正確な重みは非公開。心理面では、強い覚醒度の感情(驚き・共感・衝撃)がシェアを促し、「自分も同じ経験をした」という共感とギャップの組み合わせが拡散を生むという説明が自己啓発系の解説記事で共通していた。いずれも検証済みの学術研究ではなく実践論が中心である点は留意が必要。
+
+参考情報源:
+- [Hook Engineering: The Science of the First 3 Seconds in Short-Form Video (2026)](https://dev.to/bulkdl/hook-engineering-the-science-of-the-first-3-seconds-in-short-form-video-2026-2jp9)
+- [8 Things All Viral TikToks Do in the First 3 Seconds (2026)](https://www.opus.pro/blog/viral-tiktoks-first-3-seconds-2026)
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts](https://tlinky.com/3-second-hook/)
+- [How Does the YouTube Shorts Algorithm Work in 2026?](https://vidiq.com/blog/post/youtube-shorts-algorithm/)
+- [How Does the TikTok Algorithm Work: Myths and Best Practices (Sendible)](https://www.sendible.com/insights/how-does-tiktok-algorithm-work)
+- [The Psychology Behind Viral Short-Form Video: 5 Cognitive Triggers](https://dev.to/chisha_d5ceeffee4e27/the-psychology-behind-viral-short-form-video-5-cognitive-triggers-1jei)
+- [幻冬舎GOLD ONLINE: バズる動画の作り方](https://gentosha-go.com/articles/-/60079)
