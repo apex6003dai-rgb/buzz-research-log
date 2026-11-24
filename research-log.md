@@ -756,3 +756,17 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [How Does the TikTok Algorithm Work: Myths and Best Practices (Sendible)](https://www.sendible.com/insights/how-does-tiktok-algorithm-work)
 - [The Psychology Behind Viral Short-Form Video: 5 Cognitive Triggers](https://dev.to/chisha_d5ceeffee4e27/the-psychology-behind-viral-short-form-video-5-cognitive-triggers-1jei)
 - [幻冬舎GOLD ONLINE: バズる動画の作り方](https://gentosha-go.com/articles/-/60079)
+
+## 2026-11-24
+
+今回はタイトル・キャプションと動画構成の観点を中心に再調査した。キャプションについては「視聴者はミュートで見る」が前提とされ、冒頭の字幕が実質的な第一印象になるため、断定的な主張の後に根拠提示を予告する型や、文脈説明を省いて結論から始める型、短文(5〜10語程度)が推奨される点が複数の解説で共通していた。構成面では「フック→本編→ペイオフ(落ち)」という3段構成がTikTok/Reels/Shorts共通のテンプレートとして広く紹介され、7秒未満の「マイクロストーリーテリング」は一つのアイデア・一つのフック・一つの落ちに絞る手法として注目されている。タイトルは検索キーワードと感情的訴求の両立が重要で、キーワード最適化が伸びる動画の共通点として挙げられる一方、冒頭1〜2秒の内容の方が再生数への影響が大きいという見方が優勢だった。いずれもマーケティング企業や編集ツールベンダーのブログが中心で、「視聴判断は冒頭2秒で決まる」等の具体数値や学術的検証は乏しく、過去同様に参考情報として留める必要がある。
+
+参考情報源:
+- [How to Write Viral Hooks for Short-Form Video With Examples](https://dev.to/clamper_ai/how-to-write-viral-hooks-for-short-form-video-with-examples-3pok)
+- [Platform Tips: How to Write Viral Hooks for Short-Form (2026)](https://kineclip.com/blog/how-to-write-viral-hooks-short-form-2026/)
+- [25 Viral Video Hooks for Short-Form Videos](https://metricool.com/viral-video-hooks/)
+- [The Anatomy of a Great Hook: How to Grab (and Keep) Attention in 2026](https://buffer.com/resources/good-hooks/)
+- [Why Micro-Storytelling Reels Under 7 Seconds Are Dominating TikTok and Instagram in 2026](https://www.capcut.com/create/micro-storytelling-reels-under-7-seconds)
+- [The Anatomy of a Viral TikTok in 2026: What 13.5M Clips Reveal](https://www.opus.pro/blog/anatomy-of-a-viral-tiktok-2026)
+- [YouTube Shortsのタイトルの付け方(buildmyplays)](https://buildmyplays.com/ja/youtube-shorts-titles/)
+- [2026年に伸びるショート動画の8つの共通点](https://pamxy.co.jp/marke-driven/?p=16789)
