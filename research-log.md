@@ -770,3 +770,17 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [The Anatomy of a Viral TikTok in 2026: What 13.5M Clips Reveal](https://www.opus.pro/blog/anatomy-of-a-viral-tiktok-2026)
 - [YouTube Shortsのタイトルの付け方(buildmyplays)](https://buildmyplays.com/ja/youtube-shorts-titles/)
 - [2026年に伸びるショート動画の8つの共通点](https://pamxy.co.jp/marke-driven/?p=16789)
+
+## 2026-11-25
+
+今回は視聴完了率・心理トリガー・構成パターンを中心に再調査した。アルゴリズムは生の再生数よりも視聴完了率・滞在時間を重視するとの主張が複数のマーケティング系記事で一致していたが、「最初の1.5〜3秒で判定」といった具体的な秒数や閾値は出典ごとにバラバラで、TikTok公式が確認しているのは「最初の3秒で訴求点を示す」という比較的緩い推奨のみだった。シェアを促す心理要因としては、好奇心ギャップ・ツァイガルニク効果(未完了の緊張)・パターン中断・感情的伝染・アイデンティティ共感などが挙げられていたが、学術的な検証は見当たらず、いずれもブログ単独の主張に留まる。構成面では「フック→本編→落ち」の3段構成とフックは説明的にせず緊張感を作ることが重要とされ、キャプションは視聴者がミュートで見る前提で冒頭の字幕を事実上の第一印象として設計する点が改めて確認された。全体として具体的な数値・統計は編集ツールベンダーの未検証な主張が多く、方法論としての大枠(フック設計・完了率重視・緊張感の設計)は一貫しているが、裏付けの強さには注意が必要。
+
+参考情報源:
+- [Hook Engineering: The Science of the First 3 Seconds in Short-Form Video (2026)](https://dev.to/bulkdl/hook-engineering-the-science-of-the-first-3-seconds-in-short-form-video-2026-2jp9)
+- [8 Things All Viral TikToks Do in the First 3 Seconds (2026)](https://www.opus.pro/blog/viral-tiktoks-first-3-seconds-2026)
+- [tiktok 3 second rule](https://teleprompter.com/blog/tiktok-3-second-rule)
+- [the 30 second rule: what goes viral, decided by algorithms](https://www.bizcommunity.com/article/the-30-second-rule-what-goes-viral-decided-by-algorithms-172566a)
+- [The Psychology Behind Viral Short-Form Video: 5 Cognitive Triggers](https://dev.to/chisha_d5ceeffee4e27/the-psychology-behind-viral-short-form-video-5-cognitive-triggers-1jei)
+- [short form video (Sprout Social)](https://sproutsocial.com/insights/short-form-video)
+- [TikTokでバズる動画の作り方2026年版(CapCut)](https://www.capcut.com/ja-jp/resource/how-to-make-viral-tiktok-videos-2026)
+- [tiktok script guide (NemoVideo)](https://www.nemovideo.com/ja-JP/blog/tiktok-script-guide)
