@@ -784,3 +784,16 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [short form video (Sprout Social)](https://sproutsocial.com/insights/short-form-video)
 - [TikTokでバズる動画の作り方2026年版(CapCut)](https://www.capcut.com/ja-jp/resource/how-to-make-viral-tiktok-videos-2026)
 - [tiktok script guide (NemoVideo)](https://www.nemovideo.com/ja-JP/blog/tiktok-script-guide)
+
+## 2026-11-27
+
+今回はフック設計とシェアの心理トリガーを中心に再調査した。アルゴリズム面では、早期離脱率(冒頭数秒での視聴者減少)を独立したシグナルとして扱うとの説明が複数の解説記事で見られたが、「冒頭3秒で35%以上離脱すると拡散されにくい」といった具体的な閾値は出典が曖昧で、プラットフォーム公式ドキュメントでの確認は取れなかった。視聴判断にかかる時間についても「1.3〜2.3秒」など記事ごとに数値が食い違い、裏付けは弱い。フック手法としては、パターン中断(突発的な効果音・音楽の急変・声量の変化)、トレンド音源の活用、好奇心ギャップ型の切り出しが共通して挙げられ、音声なし視聴を想定した字幕設計も改めて確認された。心理的には「カリオスタシス(緊張の未解消)」とも言われるツァイガルニク効果に基づく「問いを開いて終盤で閉じる」構成が一貫して推奨されており、冒頭で開いた疑問を結末で回収しない“尻切れ”は逆効果とされる。台本テンプレートとしては「フック(0-3秒)→課題提示(3-15秒)→解決(15-45秒)→CTA(終盤5秒)」という型が複数のツールベンダー記事で共通して紹介されていたが、これも実証研究ではなく実践論の域を出ない。
+
+参考情報源:
+- [Hook Engineering: The Science of the First 3 Seconds in Short-Form Video (2026)](https://dev.to/bulkdl/hook-engineering-the-science-of-the-first-3-seconds-in-short-form-video-2026-2jp9)
+- [8 Things All Viral TikToks Do in the First 3 Seconds (2026)](https://www.opus.pro/blog/viral-tiktoks-first-3-seconds-2026)
+- [What Is a 3 Second Hook? The 2026 Guide for TikTok, Reels & Shorts](https://tlinky.com/3-second-hook/)
+- [Hooks, Pattern Interrupts & Viral Openers in 2026](https://virvid.ai/blog/hooks-pattern-interrupts-viral-openers-in-2026)
+- [How to Write Hooks That Blow Up Your Content: The Psychology Behind Viral Social Media](https://postiz.com/blog/how-to-write-viral-hooks-social-media-psychology)
+- [YouTube Shorts: Hooks and Curiosity Loops That Explode Your Views](https://www.socialmediaexaminer.com/youtube-shorts-hooks-and-curiosity-loops-that-explode-your-views/)
+- [The Psychology Behind Viral Short-Form Videos](https://clippie.ai/blog/the-psychology-behind-viral-short-form-videos)
