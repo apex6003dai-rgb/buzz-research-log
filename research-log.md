@@ -797,3 +797,17 @@ Instagram Reelsのアルゴリズムは「いいね」より深いシグナル�
 - [How to Write Hooks That Blow Up Your Content: The Psychology Behind Viral Social Media](https://postiz.com/blog/how-to-write-viral-hooks-social-media-psychology)
 - [YouTube Shorts: Hooks and Curiosity Loops That Explode Your Views](https://www.socialmediaexaminer.com/youtube-shorts-hooks-and-curiosity-loops-that-explode-your-views/)
 - [The Psychology Behind Viral Short-Form Videos](https://clippie.ai/blog/the-psychology-behind-viral-short-form-videos)
+
+## 2026-11-28
+
+今回はフック設計の実証データとシェアの心理学的根拠を中心に再調査した。あるクリッピングツールの3万件超の分析では「最初の2秒で成果物・結果を見せるフック」が最も再生維持率が高いとされ、アルゴリズムの初期判定は1.5〜1.7秒前後という説が複数あったが具体的な秒数は出典ごとに不一致で未検証。音声なし視聴がTikTok初回視聴の約4割を占めるとの推計もあり、冒頭フレームの字幕設計の重要性が改めて示された。アルゴリズム面では視聴完了率とシェア数が再生数より重視され、完了率の「バズる閾値」は50%→70%台へ上昇したとの主張もあるが数値はベンダー間で食い違う。心理学では、Jonah Bergerらの研究により「シェアは覚醒(アローザル)状態を解消する行為」であり、驚き・興奮・畏敬・怒りなど高覚醒の感情(悲しみなど低覚醒の感情は逆効果)が拡散を促すことが学術的にも比較的裏付けられている。意外性・新規性のある切り口や、複雑/混合的な感情を伴うコンテンツもシェアされやすいとされる。総じてフック×完了率重視×高覚醒感情の設計という大枠は過去の調査と一貫しているが、具体的数値の多くはマーケティング業者発で検証が弱い。
+
+参考情報源:
+- [8 Things All Viral TikToks Do in the First 3 Seconds (2026)](https://www.opus.pro/blog/viral-tiktoks-first-3-seconds-2026)
+- [Hook Engineering: The Science of the First 3 Seconds in Short-Form Video (2026)](https://dev.to/bulkdl/hook-engineering-the-science-of-the-first-3-seconds-in-short-form-video-2026-2jp9)
+- [TikTok Algorithm 2026: Why Shares and Saves Matter More Than Likes](https://dev.to/stklen/tiktok-algorithm-2026-why-shares-and-saves-matter-more-than-likes-2gb4)
+- [Retention as New PageRank: TikTok's 2026 Mathematics of Viral SEO](https://webscraft.org/blog/retention-tse-noviy-pagerank-povedinkove-seo-ta-matematika-populyarnosti-tiktok-u-2026?lang=en)
+- [The Psychology Behind Viral Content (Inc.)](https://www.inc.com/abigail-tracy/the-psychology-behind-viral-content.html)
+- [The science of viral content: Why certain emotions ignite social engagement](https://martech.org/science-viral-content-certain-emotions-ignite-social-engagement/)
+- [The Psychology of Sharing](https://contently.com/strategist/2012/02/24/psychology-of-sharing)
+- [emotions arousal science viral content](https://contently.com/2018/11/15/emotions-arousal-science-viral-content)
